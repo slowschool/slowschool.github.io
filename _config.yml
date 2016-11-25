@@ -1,0 +1,24 @@
+# Site settings
+title: Slow School
+email: oscar@slowschool.se
+description: > #Slow School - för ett långsammare och mentalt starkare Sverige.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Hem', '/', 'fa-home']
+  About : ['Uppdraget', '/about', 'fa-home']
+  Home_Alt : ['Inspiration', '/home-alt', 'fa-instagram']
+  Produkter : ['Produkter', '/produkter/', 'fa-fire']
+  Contact : ['Kontakta', '/contact', 'fa-plane']
+  Founder : ['OT', '/author/tege', 'fa-user']
+  Author : ['Dino Sloth', '/author/sloth', 'fa-user']
+single_footer: '<p>För ett långsammare och mentalt starkare Sverige.<a href="/">senaste inlägg</a></p>'
+footer_links:
+    About: ['Om', '/about']
+    Writer: ['Slow School', '/about']
+
+
+#Build settings
+markdown: kramdown
