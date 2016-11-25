@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<header class="hero-image" style='background-image: url({{"/img/" | append: page.feature_image | prepend: site.baseurl }}.jpg);'>
+    <span class="menu-trigger animated fadeInDown">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </span>
+
+    {% include nav.html %}
+</header>
+
+<main class="container">
+    <div class="row">
+        <div class="col-xs-12 single-content">
+
+            <h1>{{ page.title }}</h1>
+
+            {{ content }}
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#f79520; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%; margin-top:50px; margin-bottom: 90px; padding-bottom:25px;}
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//slowschool.us12.list-manage.com/subscribe/post?u=cb4d6c9185484515ef509fda7&amp;id=8fa762896b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <label for="mce-EMAIL">Vill du ha mer? Prenumerera gärna på Slowletter! Tips, utmaningar, inspiration. Skickas då och då.</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="din email" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cb4d6c9185484515ef509fda7_8fa762896b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Ge mig!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+        
+        {% if page.comments %}
+      <div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//slowschool.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      {% endif %}
+</div>
+        </div><!-- main-content/col -->
+    
+       
+
+
+ </div> <!--/row -->
+
+</main> <!-- /container -->
+
+{% include footer-page.html %}
+
+    </div>
+    
