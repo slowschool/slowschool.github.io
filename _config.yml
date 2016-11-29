@@ -8,8 +8,8 @@ enable_retina: false
 permalink: :title
 nav_list:
   Home : ['Hem', '/', 'fa-home']
-  About : ['Uppdraget', '/about', 'fa-home']
-  Home_Alt : ['Inspiration', '/home-alt', 'fa-instagram']
+  About : ['Uppdraget', '/about', 'fa-bullhorn']
+  Home_Alt : ['Inspiration', '/inpiration', 'fa-child']
   Produkter : ['Produkter', '/produkter/', 'fa-fire']
   Contact : ['Kontakta', '/contact', 'fa-plane']
   Founder : ['OT', '/author/tege', 'fa-user']

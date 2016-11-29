@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: static
 
 permalink: /produkter/
 feature_image: seany
