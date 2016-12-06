@@ -16,26 +16,26 @@ För ett långsammare och mentalt starkare Sverige. Så lyder uppdraget.
 Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.
 Låt oss använda dem så bra vi bara kan.
 
-Det handlar om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om en längtan efter en större gemenskap i samhället.
+Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om större socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om en längtan efter en större gemenskap i samhället.
 
  
 ## En guide till ett långsammare liv
 
 Slow School vill fungera som en guide till hur du på olika sätt kan sakta ner olika saker i ditt liv. Och det kan betyda en massa olika saker. 
 
-Den långsamma rörelsen strävar efter att vara en motkraft till det alltmer utbredda problemet med "tidsfattigdom".
+Den långsamma rörelsen strävar efter att vara en motkraft till det alltmer utbredda problemet med tidsfattigdom.
 Kontakt är nyckelordet.
 Stress leder till enorma hälsoproblem. "Stanna ekorrhjulet, jag vill hoppa av" är en känsla som vi alla har ibland.
 Vad är fel? Vad söker vi efter? Återigen - kontakt är nyckelordet. Det handlar om bättre kontakt med folk - oss själva, våra familjer, vårt samhälle, våra vänner.
 Bättre kontakt till maten vi äter. Bättre kontakt med platserna vi bor på och besöker. 
 
 
-Höghastighetslivet försvagar dessa kontakter. Strävandet efter den ständiga upptagenheten är påtaglig hos många.
+Höghastighetslivet försvagar dessa kontakter. Strävandet efter att ständigt vara upptagen är påtaglig hos många.
 
 Det finns ett beroende och missbruk av snabbhet i samhället. Massor med ögonblick som bara är en tävling mot klockan. En ständig spurt mot en mållinje som aldrig syns.
 Och den här kulturen kopplar naturligtvis sitt grepp på allt från vår hälsa, arbete, relationer och miljön. 
 
-Den långsamma filosofin vill inte att du ska göra allt i snigelfart. Det handlar om att försöka göra saker i rätt hastighet. Om att göra saker så bra som möjligt, istället för så snabbt
+Den långsamma filosofin är inte ute efter att göra allt i snigelfart. Det handlar om att försöka göra saker i rätt hastighet. Om att göra saker så bra som möjligt, istället för så snabbt
 som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och relationer. Om att spendera vår tid på ett mer medvetet sätt.
 
 
@@ -47,7 +47,7 @@ som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och re
 Slow School vill bidra till att det kastas mer ljus på allt som har med mental styrka att göra. För mental styrka kan betyda oerhört mycket. Och visst finns det kopplingar mellan mental styrka och utvecklandet av en mer långsam
 livsstil.  
 
-En kortfattad definition: Mental styrka betyder bland annat att bättre kunna styra tankar och känslor. Om att fokusera på det vi kan kontrollera. Om produktivt beteende oavsett omständigheter. Det innebär att utveckla det mod som krävs för att leva enligt dina egna värderingar. Om att vara tillräckligt modig för att skapa din egen definition av framgång.
+En kortfattad definition: Mental styrka betyder bland annat att bättre kunna styra tankar och känslor. Det betyder att bygga upp en så bra relation som möjligt till dig själv. Det betyder att fokusera på det vi kan kontrollera. Om produktivt beteende oavsett omständigheter. Det innebär att regelbundet utmana dig själv utanför din komfortzon. Det innebär att utveckla det mod som krävs för att leva enligt dina egna värderingar. Det innebär att vara tillräckligt modig för att skapa din egen definition av framgång. Och så vidare.
 
 
 
@@ -58,7 +58,7 @@ En kortfattad definition: Mental styrka betyder bland annat att bättre kunna st
 
 ## 1. "Jag ska göra det till en vana att söka mig utanför min komfortzon."
 
-Sök upp det obekväma och sådant som skrämmer lite. Gör det ofta och se hur din värld växer. Det är en nyckel till personlig utveckling.
+Sök upp det obekväma och sådant som skrämmer lite. Gör det ofta och se hur din värld växer. Det är en av de stora nycklarna till personlig utveckling.
 Håll ett tal när du är nervös. Ta kontakt med främlingar. Fortsätt träna när du är trött. Lär dig något du inte tror du klarar av. För att ta några exempel.
 Vad det än är - se det som möjligheter att växa. Du lär dig inte bara mer om dig själv, du får även bättre självförtroende och ett kvitto på att du klarar av sådant som du tidigare trott var omöjligt. Låt inte din fulla potential förbli en hemlighet.
 
@@ -69,6 +69,7 @@ tillräckligt viktigt att göra utan avbrott. Fokusera helt på vad du gör just
 
 
 ## 3. "Jag säger nej."
+
 Bli bättre på att säga nej till sånt som inte är hälsosamt.
 Ta din hälsa och välmående på stort allvar. Du vet vad man brukar säga - skräp kommer in, skräp kommer ut. Säg nej till så mycket skräp du kan.
 Nej till negativitet. Nej till försoffning. Nej till tankar, aktiviteter och energi som inte är bra för dig. Så mycket du bara kan.
@@ -76,8 +77,9 @@ Nej till negativitet. Nej till försoffning. Nej till tankar, aktiviteter och en
 
 
 ## 4. "Jag ska inte titta i telefonen när jag pratar med eller lyssnar på någon."
-Många har väl gjort det någon gång..."Vänta, jag ska bara svara på det här meddelandet." Kanske var du en ännu större syndare. Du sa inte vänta. Du bara blev tyst
-och sögs in i den där skärmen. Och jag tappade tråden helt. Sluta med det, är du snäll. Andra kommer ha högre tankar om dig. Och du kommer ha högre tankar om dig själv.
+
+Alla har väl gjort det någon gång..."Vänta, jag ska bara svara på det här meddelandet." Och det är väl fine, om det nu verkligen är viktigt. Men kanske var du en syndare på riktigt. Du sa inte vänta. Du bara blev tyst
+och sögs in i skärmen. Och jag tappade tråden helt. Sluta med det, är du snäll. Andra kommer ha högre tankar om dig. Och du kommer ha högre tankar om dig själv.
 
 
 
@@ -89,13 +91,12 @@ Inget ältande över det förflutna eller planerande för framtiden. Du gör abs
 vara här och nu och leva i ögonblicket.
 
 
-När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer, reagera mindre och det blir lättare att fylla ditt liv med
-det som är viktigast.
+När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer, reagera mindre och det blir lättare att fylla ditt liv med det som är viktigast.
 
-## 6. "Jag ska inte gnälla." 
+## 6. "Jag ska sluta gnälla." 
 
 Dina ord har makt över dig. Att bara gnälla om problem förvärrar lätt. Slösa inte tid på att klaga. 
-Lägg istället den energin på att förbättra din situation. Förr eller senare måste du ändå göra något att saken. Om du inte vill gnälla om det i all evighet. Så varför
+Lägg istället den energin på att lösa problemet och förbättra din situation. Förr eller senare måste du ändå göra något att saken. Om du inte vill gnälla om det i all evighet. Så varför
 slösa med tiden? Gör något nu. Prata inte bara om vad som är fel.
 
 ## 7. "Jag ska inte låta det förflutna kontrollera min framtid." 
