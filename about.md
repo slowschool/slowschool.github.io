@@ -13,7 +13,7 @@ För ett långsammare och mentalt starkare Sverige. Så lyder uppdraget.
 ## Slow is good
 
 
-Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.Ja så är det bara...
+Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.
 Låt oss använda dem så bra vi bara kan.
 
 Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om större socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om en längtan efter en större gemenskap i samhället.
