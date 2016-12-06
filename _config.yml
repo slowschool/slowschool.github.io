@@ -18,6 +18,8 @@ single_footer: '<p>För ett långsammare och mentalt starkare Sverige.<a href="/
 footer_links:
     About: ['Om', '/about']
     Writer: ['Slow School', '/about']
+gems:
+  - jekyll-seo-tag
 
 
 #Build settings
