@@ -6,9 +6,7 @@
 
     <title>{{ site.title }} | {% if page.title %}{{ page.title }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="shortcut icon" type="image/jpg" href="img/slothy" sizes="16x16 32x32 64x64">
 
-    
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -17,4 +15,5 @@
     <!--[if lt IE 9]>
         <script src="{{ "/js/vendor/html5shiv.min.js" | prepend: site.baseurl }}"></script>
     <![endif]-->
+ {% seo %}
 </head>
