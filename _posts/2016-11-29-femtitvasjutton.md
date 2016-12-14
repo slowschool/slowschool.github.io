@@ -15,16 +15,16 @@ square_related: recommend-wolf
 
 *Det här inlägget är ett utdrag från kursen: Designa din dag för maximal produktivitet.*
 
-Draugiem Group, ett företag inom socialt nätverkande , studerade sina anställdas produktivitet. De ville identifiera vilka som var mest produktiva, och framförallt, om det gick att dra några slutsatser om varför det var så.
+Draugiem Group, ett företag inom socialt nätverkande , ville undersöka sina anställdas produktivitet. De ville identifiera vilka som var mest produktiva, och framförallt, om det gick att dra några slutsatser om varför det var så.
 
 Det fanns en grupp (10%) som var överlägset mest produktiv. Och de visade upp ett närmast identiskt mönster.
 Hemligheten? Regelbundna pauser och intensiva jobbintervaller.
-Det var inte bara det att pauser togs regelbundet. Det handlade kanske ännu mer om hur dessa spenderades. Fokus låg helt på avslappning och omladdning av batterier.
+Och det var inte bara det att pauser togs regelbundet. Det handlade kanske ännu mer om hur dessa spenderades. Fokus låg helt på avslappning och omladdning av batterier.
 
 
 **Med hjälp av produktivitetsappen DeskTime kom man fram till ett idealt förhållande:**
 
-Intensivt och fokuserat arbete i 52 minuter, sedan vila för att förbereda för nästa sprint. Optimal viloperiod landade på 17 minuter.
+Intensivt och fokuserat arbete i 52 minuter, sedan vila för att förbereda nästa sprint. Optimal viloperiod landade på 17 minuter.
 
 Och självklart har metoden snappats upp. Många framgångsrika entreprenörer har liknat arbetssättet med ett populärt och effektivt sätt att träna - mer intensitet, mindre varaktighet.
 
