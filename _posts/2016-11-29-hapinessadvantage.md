@@ -11,7 +11,7 @@ feature_image: happyier
 show_related_posts: false
 ---
 
-Träna din hjärna till större positivitet.
+Träna din hjärna till större positivitet. Det låter väl jäkligt bra?
 
 Lyckofördelen kommer från Harvardforskaren Shawn Achor, författare till "The Happiness Advantage".
 
