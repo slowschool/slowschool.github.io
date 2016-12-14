@@ -15,21 +15,24 @@ square_related: recommend-sunset
 Jag gör det imorgon. Jag är för upptagen just nu. 
 Äh, jag gör det sen. 
 
-Medan vi absolut och väldigt gärna vill uppnå långsiktiga mål, så kan det samtidigt ofta vara svårt att genomföra dem på ett effektivt sätt. Planer, prioriteringar och förberedelser är alla viktiga.
+Morgondagen. En magiskt plats där en stor del av mänsklighetens produktivitet tycks befinna sig.
+Medan vi absolut och väldigt gärna vill uppnå långsiktiga mål, så kan det samtidigt vara svårt att genomföra dem på ett effektivt sätt. 
+
+Planer, prioriteringar och förberedelser är alla viktiga.
 
 Men genomförande är det som i slutändan gör hela skillnaden. De som har lärt sig att genomföra och att göra det konsekvent är oftast de mest framgångsrika. De som av olika anledningar inte får saker att hända lika lätt, de lever sällan upp till sin potential.
 
  **Tre personlighetstyper som lätt skjuter upp saker:**
 
-1. De som gillar kicken av att bli klar i sista minuten.
+1. När du gillar kicken av att bli klar i sista minuten.
 
-2. De som undviker att ta tag i saker på grund av osäkerhet och rädsla.
+2. När du undviker att ta tag i saker på grund av osäkerhet och rädsla.
 
-3. De som har svårt att fatta beslut.
+3. När du har svårt att fatta beslut.
 
 
 
-Vad händer när vi prokrastinerar?
+Vad händer egentligen när vi skjuter upp saker?
 
 
  **Instinkter.**
