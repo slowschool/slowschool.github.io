@@ -15,9 +15,9 @@ Träna din hjärna till större positivitet. Det låter väl jäkligt bra?
 
 Lyckofördelen kommer från Harvardforskaren Shawn Achor, författare till "The Happiness Advantage".
 
-**Achor:** Om du kan höja din positivitet i nuet, kommer din hjärna uppleva en så kallad "lyckofördel". En positiv hjärna presterarar enormt mycket bättre än en negativ, neutral eller stressad. Energinivåer ökar, kreativitet ökar, intelligens ökar. En positiv hjärna kan öka din produktivitet med 31 procent.
+**Achor:** Om du kan höja din positivitet i nuet, kommer din hjärna uppleva en så kallad "lyckofördel". En positiv hjärna presterar mycket bättre än en negativ, neutral eller stressad. Energinivåer ökar, kreativitet ökar, intelligens ökar. En positiv hjärna kan öka din produktivitet upp till 31 procent.
 
-Här är Lyckofördelen nedkokad i en morgonrutin på ca 25 minuter:
+Ok, låt oss hugga in på huvudrätten. Här är Lyckofördelen nedkokad i en morgonrutin på ca 25 minuter:
 
 ## 1. Tacksamhet.
 
@@ -64,9 +64,9 @@ Och dina sociala kontakter blir starkare, vilket är den största indikatorn fö
 
 
 
-Ca 25 minuter varje morgon är allt som krävs.
+Ca 25 minuter varje morgon är allt som krävs. 21 dagar i rad för att uppleva skillnader som enligt Achor stannar kvar.
 
-Aktiviteterna tränar din hjärna att vara positiv genom hela dagen.
+En morgonrutin som kan träna din hjärna att vara positiv genom hela dagen. Klart du måste testa det!
 
 
 
