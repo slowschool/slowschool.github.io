@@ -17,7 +17,7 @@ Staycation har sitt ursprung i vacation, det vill säga semester. Dock med en v�
 Eller du åker åtminstone inte långt. 
 
 Behandla det lokala eller regionala 
-lite som tillfälliga besökare och turister gör. 
+på samma sätt som tillfälliga besökare och turister gör. 
 
 Syftet med Staycations, i dess mest avskalade form: Stanna upp, lev i nuet. Skapa tid för en djupare kontakt med din omgivning. 
 Håll dig borta från jobb och internet.
@@ -33,13 +33,14 @@ Ingen bil. Sätt en gräns för hur mycket pengar som får spenderas. Förbjud v
 vad ni ska besöka, vad ni ska äta osv.
 
 
-När besökare utifrån kommer för att utforska din ort eller region, vad gör de? Vad besöker de? Gör dessa saker och besök dessa platser!
+När besökare kommer för att utforska din ort eller region, vad gör de? Vad besöker de? Gör dessa saker och besök dessa platser!
 En staycation är ett bra sätt att stärka kontakten med din ort/region och upptäcka nya saker. 
 Sakta ner. Öppna ögonen för det som du ofta bara passerar. Det som du knappt lägger märke till. 
 
 ## "Staycations" i vardagen.
 
 I det vardagliga handlar mycket om att ta sig från punkt A till punkt B. Med så få störningar som möjligt. Det är effektivt. Det är produktivt.
+
 Det handlar om att spara tid. Men vi blir nästan blinda för guldkorn och intressanta saker som finns mitt framför ögonen på oss.
 
 Varför inte cykla eller gå den sträcka, eller del av, som du brukar pendla? 
