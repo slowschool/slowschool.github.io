@@ -2,7 +2,7 @@
 layout: static
 
 permalink: /produkter/
-feature_image: seany
+feature_image: amazing
 ---
 
 ## Kurs: Designa din dag för maximal produktivitet.
