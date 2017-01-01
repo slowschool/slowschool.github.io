@@ -56,7 +56,7 @@ Fokusera på din andning i ca två minuter. Det tränar din hjärna att fokusera
 
 ## 5. Vänliga meddelande.
 
-Den viktigaste aktivitetens av dem alla: Skriv något positivt till en ny person varje morgon. Beröm, erbjud hjälp, säg tack. Och så vidare. Enligt Achor blir du känd som en positiv ledargestalt om du gör detta. 
+Den viktigaste aktiviteten av dem alla: Skriv något positivt till en ny person varje morgon. Beröm, erbjud hjälp, säg tack. Och så vidare. Enligt Achor blir du känd som en positiv ledargestalt om du gör detta. 
 
 Och dina sociala kontakter blir starkare, vilket är den största indikatorn för långsiktig lycka. 
 
@@ -64,9 +64,9 @@ Och dina sociala kontakter blir starkare, vilket är den största indikatorn fö
 
 
 
-Ca 25 minuter varje morgon är allt som krävs. 21 dagar i rad för att uppleva skillnader som enligt Achor stannar kvar.
+Ca 25 minuter varje morgon är allt som krävs. 21 dagar i rad för att uppleva skillnader som enligt Achor blir varaktiga.
 
-En morgonrutin som kan träna din hjärna att vara positiv genom hela dagen. Klart du måste testa det!
+En morgonrutin som kan träna din hjärna att vara positiv genom hela dagen. Klart du måste testa det?
 
 
 
