@@ -2,7 +2,7 @@
 layout: author
 title: Author
 permalink: author/tege/
-feature_image: skogenva
+feature_image: skoggan
 author_avatar: tege
 title: Oscar T.
 author_name: Oscar T.
