@@ -10,7 +10,8 @@ author_name: Oscar T.
 
 # Oscar T.
 
-Grundare av Slow School. På bloggen skriver jag mest om mental styrka och produktivitet. Och jag styr gärna upp olika utmaningar. 
-För tillfället ganska insnöad på att utveckla olika digitala produkter för Slow Schools räkning. Drömmer ibland om att bygga trähus.
-Se mig inte som någon expert i första hand. Utan vill snarare först och främst sprida idéer som kan inspirera till en annan livsstil. Och idéer som kan lösa problem som jag anser viktiga och ofta undervärderade. Andan är experimentell. Har testat en hel del av det jag tar upp, och i flera fall utvecklat nya vanor som gjort enormt mycket nytta.  
+Grundare av Slow School. På bloggen skriver jag just nu mest om mental styrka och produktivitet. Och jag styr gärna upp olika utmaningar. 
+För tillfället ganska insnöad på att utveckla olika digitala produkter som kan göra Sverige lite långsammare och mentalt starkare. 
+
+Se mig inte som någon expert i första hand. Andan är experimentell. Har testat en hel del av det jag tar upp i bloggen, detsamma gäller även för Dino. I flera fall har jag utvecklat nya vanor som gjort enormt mycket nytta. Vill sprida idéer som kan inspirera till en annan livsstil, bättre hälsa, mer tid, mindre stress. Och så vidare. 
 
