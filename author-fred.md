@@ -23,7 +23,7 @@ En av dessa var - vad kan jag själv göra åt situationen? Försök att göra a
 
 Jag började ta mental träning på stort allvar, och även om resultaten lät vänta lite på sig, så resulterade den tilltagande mentala styrkan i framförallt två saker. 
 
-1)Jag började utveckla Slow School, det började kännas på riktigt. Något som jag mest tidigare hels tiden skjutit upp. 
+1)Jag började utveckla Slow School, det började kännas på riktigt. Något som jag mest tidigare hela tiden skjutit upp. 
 
 2)Jag blev mycket bättre på att hantera negativitet från omgivningen. En enorm befrielse. Under loppet av ett halvår fick jag höra mycket skit. Jag var som en båt som för varje negativ kommentar tog in mer och mer vatten, nästan på väg att sjunka. Den nyvunna mentala styrkan omvandlade mycket av det där till bränsle. Som gjorde att jag kunde distansera mig från den där negativa skiten. Som gjorde att jag började bygga en produkt som handlar om mental träning. Som senare ledde till att jag började bygga en produkt till där mentala aspekter står i centrum. 
 
