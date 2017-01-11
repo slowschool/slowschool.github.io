@@ -5,7 +5,7 @@ title:  "8 saker som kan hjälpa dig att bli mentalt starkare"
 categories: mentalstyrka
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: tege
+author_avatar: otege
 show_avatar : true
 feature_image: own
 show_related_posts: false
