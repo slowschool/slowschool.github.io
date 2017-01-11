@@ -5,7 +5,7 @@ title:  "Lyckofördelen"
 categories: mentalstyrka utmaningar
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: tege
+author_avatar: otege
 show_avatar : true
 feature_image: happyier
 show_related_posts: false
@@ -17,11 +17,11 @@ Lyckofördelen kommer från Harvardforskaren Shawn Achor, författare till "The 
 
 **Achor:** Om du kan höja din positivitet i nuet, kommer din hjärna uppleva en så kallad "lyckofördel". En positiv hjärna presterar mycket bättre än en negativ, neutral eller stressad. Energinivåer ökar, kreativitet ökar, intelligens ökar. En positiv hjärna kan öka din produktivitet upp till 31 procent.
 
-Ok, låt oss hugga in på huvudrätten. Här är Lyckofördelen nedkokad i en morgonrutin på ca 25 minuter:
+Ok, låt oss hugga in på huvudrätten. Här är Lyckofördelen nedkokad i en morgonrutin på ca 25 minuter. För effekter som stannar kvar på lång sikt, gör det här 21 morgnar i rad.
 
 ## 1. Tacksamhet.
 
-Vilka tre, nya saker är du tacksam över varje morgon? Skriv ner dem.  För långsiktig effekt, gör det 21 dagar i rad. Enligt Achor är detta mycket kraftfullt då du tränar din hjärna att skanna efter positiva saker istället för negativa. Se det som ett snabbspår till att lära dig optimism. Tekniken kan förbättra din optimism avsevärt.
+Vilka tre, nya saker är du tacksam över varje morgon? Skriv ner dem. Enligt Achor är detta mycket kraftfullt då du tränar din hjärna att skanna efter positiva saker istället för negativa. Se det som ett snabbspår till att lära dig optimism. Tekniken kan förbättra din optimism avsevärt.
 
 **Tid: ca 2 minuter.**
 
