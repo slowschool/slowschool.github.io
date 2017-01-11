@@ -5,7 +5,7 @@ title:  "52/17 - ett recept för monsterproduktivitet?"
 categories: produktivitet
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: tege
+author_avatar: otege
 show_avatar : true
 feature_image: run
 show_related_posts: false
