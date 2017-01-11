@@ -5,7 +5,7 @@ categories: produktivitet
 comments: true
 author_name : Oscar T
 author_url : /author/tege
-author_avatar: tege
+author_avatar: otege
 show_avatar : true
 feature_image: feature-van
 show_related_posts: true
