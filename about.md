@@ -16,7 +16,7 @@ För ett långsammare och mentalt starkare Sverige. Så lyder uppdraget.
 Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.
 Låt oss använda dem så bra vi bara kan.
 
-Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om större socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om en längtan efter en större gemenskap i samhället.
+Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om större socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om att försöka bygga en större gemenskap i samhället.
 
  
 ## En guide till ett långsammare liv
@@ -90,8 +90,7 @@ inget email eller sms, inget Internet eller TV, inga samtal, inget ätande eller
 Inget ältande över det förflutna eller planerande för framtiden. Du gör absolut ingenting, förutom att
 vara här och nu och leva i ögonblicket.
 
-
-När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer, reagera mindre och det blir lättare att fylla ditt liv med det som är viktigast.
+När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer och reagera mindre. Det blir lättare att fylla ditt liv med det som är viktigast.
 
 ## 6. "Jag ska sluta gnälla." 
 
@@ -130,7 +129,7 @@ När du utmanas, fokusera på att bli bättre. Bli-bättre mål ökar motivation
 
 Tålamod är grunden bakom nästan alla goda vanor. Utan tålamod kan du inte spara pengar, utveckla nya färdigheter, gå ner i vikt osv. Tålamod är också en av de svåraste kvaliteter som
 finns att odla. Tålamod kan betyda väldigt många saker. I det här fallet - att vänta ut saker. Att inte tappa humöret i bilkön. Att acceptera att långsiktiga mål kallas så av en anledning. 
-Att vänta fem minuter innan du svarar på ny information. Att acceptera att hälsosamma vanor inte innebär omedelbar belöning. Tålamod är lika mycket en faktor i långsiktiga mål som i att behålla lugnet i ögonblicket.
+Att vänta fem minuter innan du svarar på ny information. Att acceptera att hälsosamma vanor inte innebär omedelbar belöning. Tålamod är lika mycket en faktor vad gäller långsiktiga mål, som när det handlar om att behålla lugnet i ögonblicket.
 
 
 
