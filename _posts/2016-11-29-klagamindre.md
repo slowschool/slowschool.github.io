@@ -5,7 +5,7 @@ categories: utmaningar
 comments: true
 author_name : Oscar
 author_url : /author/tege
-author_avatar: tege
+author_avatar: otege
 show_avatar : true
 feature_image: hunnar
 show_related_posts: true
