@@ -10,6 +10,6 @@ title: Dino Sloth
 
 # Dino Sloth
 
-Känd för att hänga mycket i träd. Tar det ganska lugnt. Livsnjutare. Behöver själv inte sakta ner så mycket. Älskar att inspirera andra att ta steget över till den långsamma sidan. Favoritsak att säga: "Slow is gooood!"
+Känd för att spendera mycket tid i träd. Tycker inte det är något konstigt med det. Tar det ganska lugnt. Livsnjutare. Behöver själv inte sakta ner så mycket. Men älskar att pusha andra att ta steget över till den långsamma sidan. Favoritsak att säga: "Slow is gooood!"
 
 
