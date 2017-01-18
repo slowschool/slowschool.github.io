@@ -16,7 +16,7 @@ För ett långsammare och mentalt starkare Sverige. Så lyder uppdraget.
 Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.
 Låt oss använda dem så bra vi bara kan.
 
-Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid. Om större socialt beteende. Om att utmana sig själv. Om att våga "misslyckas". Om att försöka bygga en större gemenskap i samhället.
+Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid.  Om att utmana sig själv. Om att våga "misslyckas". Om att försöka bygga en större gemenskap i samhället.
 
  
 ## En guide till ett långsammare liv
@@ -25,7 +25,7 @@ Slow School vill fungera som en guide till hur du på olika sätt kan sakta ner 
 
 Den långsamma rörelsen strävar efter att vara en motkraft till det alltmer utbredda problemet med tidsfattigdom.
 Kontakt är nyckelordet.
-Stress leder till enorma hälsoproblem. "Stanna ekorrhjulet, jag vill hoppa av" är en känsla som vi alla har ibland.
+Stress leder till enorma hälsoproblem. "Stanna ekorrhjulet, jag vill hoppa av" är en känsla som alla har ibland, eller ofta. 
 Vad är fel? Vad söker vi efter? Återigen - kontakt är nyckelordet. Det handlar om bättre kontakt med folk - oss själva, våra familjer, vårt samhälle, våra vänner.
 Bättre kontakt till maten vi äter. Bättre kontakt med platserna vi bor på och besöker. 
 
@@ -36,7 +36,7 @@ Det finns ett beroende och missbruk av snabbhet i samhället. Massor med ögonbl
 Och den här kulturen kopplar naturligtvis sitt grepp på allt från vår hälsa, arbete, relationer och miljön. 
 
 Den långsamma filosofin är inte ute efter att göra allt i snigelfart. Det handlar om att försöka göra saker i rätt hastighet. Om att göra saker så bra som möjligt, istället för så snabbt
-som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och relationer. Om att spendera vår tid på ett mer medvetet sätt.
+som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och relationer. Om att spendera vår tid på ett mer medvetet sätt. Eftersom tid är en av de två viktigaste grejerna som vi har.
 
 
 
@@ -78,7 +78,7 @@ Nej till negativitet. Nej till försoffning. Nej till tankar, aktiviteter och en
 
 ## 4. "Jag ska inte titta i telefonen när jag pratar med eller lyssnar på någon."
 
-Alla har väl gjort det någon gång..."Vänta, jag ska bara svara på det här meddelandet." Och det är väl fine, om det nu verkligen är viktigt. Men kanske var du en syndare på riktigt. Du sa inte vänta. Du bara blev tyst
+Alla har väl gjort det någon gång..."Vänta, jag ska bara svara på det här meddelandet." Och det är väl fine, om det nu verkligen är viktigt. Men kanske var du en riktigt skärmsyndare. Du sa inte vänta. Du bara blev tyst
 och sögs in i skärmen. Och jag tappade tråden helt. Sluta med det, är du snäll. Andra kommer ha högre tankar om dig. Och du kommer ha högre tankar om dig själv.
 
 
@@ -90,7 +90,7 @@ inget email eller sms, inget Internet eller TV, inga samtal, inget ätande eller
 Inget ältande över det förflutna eller planerande för framtiden. Du gör absolut ingenting, förutom att
 vara här och nu och leva i ögonblicket.
 
-När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer och reagera mindre. Det blir lättare att fylla ditt liv med det som är viktigast.
+När mindfulness praktiserats regelbundet  - då kommer du klaga mindre, uppskatta mer och reagera mindre. Och det blir lättare att fylla ditt liv med det som är viktigast.
 
 ## 6. "Jag ska sluta gnälla." 
 
