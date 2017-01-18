@@ -1,7 +1,7 @@
 ---
 layout: author
 title: Author
-permalink: author/sloth/
+permalink: author/slowfoot/
 feature_image: waterfall
 author_avatar: slothy
 author_name: Mindful Slowfoot
