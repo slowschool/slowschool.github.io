@@ -29,5 +29,5 @@ När den mentala styrkan började komma omvandlade jag istället mycket av det d
 
 **Jag tror numera enormt mycket på interna faktorer.** Och ska jag säga något generellt så blir det - fokusera i första hand, eller till och med helt och hållet, på det som du själv kan kontrollera. På det som du kan påverka. På vad du mår bra av att göra. Fokusera mindre eller inte alls på saker som är utanför din kontroll. Fokusera mindre på sådant som bara irriterar gällande vad andra gör, eller vad andra inte gör. Gör i så fall något konstruktivt och positivt av det istället.
 
-Det var allt just nu. För ett långsammare och mentalt starkare Sverige.
+Det var allt just nu. **För ett långsammare och mentalt starkare Sverige.**
 
