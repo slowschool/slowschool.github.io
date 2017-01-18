@@ -3,7 +3,7 @@ layout: page
 comments: true
 title:  "Staycation - semester på hemmaplan"
 categories: slowlife utmaningar
-author_name : Dino Sloth
+author_name : Mindful Slowfoot
 author_url : /author/sloth
 author_avatar: slothy
 show_avatar : true
