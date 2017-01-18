@@ -19,7 +19,7 @@ Låt oss använda dem så bra vi bara kan.
 Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer balanserat förhållande till teknologi. Om att frigöra tid.  Om att utmana sig själv. Om att våga "misslyckas". Om att försöka bygga en större gemenskap i samhället.
 
  
-## En guide till ett långsammare liv
+## En guide till ett långsammare liv.
 
 Slow School vill fungera som en guide till hur du på olika sätt kan sakta ner olika saker i ditt liv. Och det kan betyda en massa olika saker. 
 
