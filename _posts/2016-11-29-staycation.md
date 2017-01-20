@@ -3,7 +3,7 @@ layout: page
 comments: true
 title:  "Staycation - semester på hemmaplan"
 categories: slowlife utmaningar
-author_name : Mindful Slowfoot
+author_name : Zenny Slowfoot
 author_url : /author/slowfoot
 author_avatar: slothy
 show_avatar : true
