@@ -7,12 +7,6 @@ feature_image: rock
 
 För ett långsammare och mentalt starkare Sverige. Så lyder uppdraget.
 
-
-
-
-## Slow is good
-
-
 Tid och hälsa är det viktigaste vi har. Hjärnan är vår viktigaste resurs.
 Låt oss använda dem så bra vi bara kan.
 
@@ -23,20 +17,20 @@ Slow School kommer handla mycket om att etablera hälsosamma vanor. Om ett mer b
 
 Slow School vill fungera som en guide till hur du på olika sätt kan sakta ner olika saker i ditt liv. Och det kan betyda en massa olika saker. 
 
-Den långsamma rörelsen strävar efter att vara en motkraft till det alltmer utbredda problemet med tidsfattigdom.
+Den långsamma rörelsen(Slow Movement) strävar efter att vara en motkraft till det alltmer utbredda problemet med tidsfattigdom.
 Kontakt är nyckelordet.
 Stress leder till enorma hälsoproblem. "Stanna ekorrhjulet, jag vill hoppa av" är en känsla som alla har ibland, eller ofta. 
 Vad är fel? Vad söker vi efter? Återigen - kontakt är nyckelordet. Det handlar om bättre kontakt med folk - oss själva, våra familjer, vårt samhälle, våra vänner.
 Bättre kontakt till maten vi äter. Bättre kontakt med platserna vi bor på och besöker. 
 
 
-Höghastighetslivet försvagar dessa kontakter. Strävandet efter att ständigt vara upptagen är påtaglig hos många.
+Höghastighetslivet försvagar dessa kontakter. 
 
 Det finns ett beroende och missbruk av snabbhet i samhället. Massor med ögonblick som bara är en tävling mot klockan. En ständig spurt mot en mållinje som aldrig syns.
-Och den här kulturen kopplar naturligtvis sitt grepp på allt från vår hälsa, arbete, relationer och miljön. 
+Och det här kopplar naturligtvis sitt grepp på allt från vår hälsa, arbete, relationer och miljön. 
 
 Den långsamma filosofin är inte ute efter att göra allt i snigelfart. Det handlar om att försöka göra saker i rätt hastighet. Om att göra saker så bra som möjligt, istället för så snabbt
-som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och relationer. Om att spendera vår tid på ett mer medvetet sätt. Eftersom tid är en av de två viktigaste grejerna som vi har.
+som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och relationer. Om att spendera vår tid på ett mer medvetet sätt. Eftersom tid är bland det absolut viktigaste vi har.
 
 
 
@@ -44,10 +38,13 @@ som möjligt. Om kvalitet över kvantitet i allt från arbete, mat, resor och re
 
 ## En guide till mental styrka.
 
-Slow School vill bidra till att det kastas mer ljus på allt som har med mental styrka att göra. För mental styrka kan betyda oerhört mycket. Och visst finns det kopplingar mellan mental styrka och utvecklandet av en mer långsam
+Slow School vill bidra till att det kastas mer ljus på allt som har med mental styrka att göra. För mental styrka kan betyda oerhört mycket. Och i förhållande till hur mycket det betyder, så uppmärksammas det väldigt lite. Målet är att göra det så konkret som möjligt. 
+Handling är nyckelordet. 
+
+Och visst finns det kopplingar mellan mental styrka och utvecklandet av en mer långsam
 livsstil.  
 
-En kortfattad definition: Mental styrka betyder bland annat att bättre kunna styra tankar och känslor. Det betyder att bygga upp en så bra relation som möjligt till dig själv. Det betyder att fokusera på det vi kan kontrollera. Om produktivt beteende oavsett omständigheter. Det innebär att regelbundet utmana dig själv utanför din komfortzon. Det innebär att utveckla det mod som krävs för att leva enligt dina egna värderingar. Det innebär att vara tillräckligt modig för att skapa din egen definition av framgång. Och så vidare.
+**En kortfattad definition**: Mental styrka betyder bland annat att bättre kunna styra tankar och känslor. Det betyder att bygga upp en så bra relation som möjligt till dig själv. Det betyder att fokusera på det vi kan kontrollera. Om produktivt beteende oavsett omständigheter. Det innebär att regelbundet utmana dig själv utanför din komfortzon. Det innebär att utveckla det mod som krävs för att leva enligt dina egna värderingar. Det innebär att vara tillräckligt modig för att skapa din egen definition av framgång. Och så vidare.
 
 
 
