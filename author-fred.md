@@ -13,7 +13,7 @@ author_name: Oscar T.
 Grundare av Slow School. På bloggen skriver jag mycket om mental styrka och produktivitet. Och jag lägger gärna upp olika utmaningar. 
 För tillfället ganska insnöad på att utveckla olika digitala produkter som kan göra Sverige lite långsammare och mentalt starkare. 
 
-**Se mig inte som någon expert**. Andan är nyfiken och experimentell. Har testat och impelmenterat en hel del av det jag tar upp, andra saker är jag sugen på att testa, andra saker är sådant som jag tycker folk borde testa eller bara tänka på. Det här passar nog bäst om du också är åt det nyfikna och experimentella hållet. Och om du är villig att göra en del saker som antagligen ganska få i din närhet är.
+**Se mig inte som någon expert**. Andan är nyfiken och experimentell. Har testat och implementerat en hel del av det jag tar upp, andra saker är jag sugen på att testa, andra saker är sådant som jag tycker folk borde testa eller bara tänka på. Det här passar nog bäst om du också är åt det nyfikna och experimentella hållet. Och om du är villig att göra en del saker som antagligen ganska få i din närhet är.
 
 För egen del har jag utvecklat rätt många nya vanor som gjort enormt mycket nytta. Och det har skett på ganska kort tid. Så varför gör jag det här? Jag vill sprida idéer som kan inspirera till en annan livsstil, bättre hälsa, mer tid, mindre stress. Saker som kan bidra till större positivitet. Det är det ena. Det andra är att jag vill inspirera till handling.  
 
