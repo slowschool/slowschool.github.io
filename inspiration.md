@@ -21,7 +21,7 @@ Men om du bara lyssnar på rädslan,och struntar i vad den säger, då bygger du
 
 > “When you’re 20, you care about what everyone thinks. When you’re 40, you stop caring about what everyone thinks. When you’re 60, you realize no one was ever thinking about you in the first place.” **– Winston Churchill,**
 
-## Anti-distraktion
+# Anti-distraktion
 
 **StayFocusd (Google Chrome)**
 
