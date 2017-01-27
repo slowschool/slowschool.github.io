@@ -14,6 +14,10 @@ Pema Chödrön historien om en ung krigare som lär sig att besegra rädslan gen
 If you don’t do what I tell you, I have no power. You can listen to me, and you can have respect for me. You can even be convinced by me.
 But if you don’t do what I say, I have no power.”
 
+Med andra ord, rädslan är en översittare. En mobbare och tyrann. Den säger vad du ska göra, och när du lyder ökar dess makt.
+Men om du bara lyssnar på rädslan,och struntar i vad den säger, då bygger du mod.
+
+
 > "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed." **- Michael Jordan,**
 
 > “When you’re 20, you care about what everyone thinks. When you’re 40, you stop caring about what everyone thinks. When you’re 60, you realize no one was ever thinking about you in the first place.” **– Winston Churchill,**
