@@ -23,9 +23,13 @@ Jag började ta mental träning på stort allvar, och även om resultaten lät v
 
 1) **Jag började utveckla Slow School, det blev på riktigt.** Fram till dess hade jag skjutit upp, velat, inte vågat och gått och väntat på att omvärlden skulle ge mig nåt slags godkännande. Typ: "Vi har kollat med alla i Sverige nu och det är ok. Du kan sätta igång."  Högst oklart hur det skulle ha gått till. 
 
-2) **Jag blev mycket bättre på att hantera negativitet från omgivningen.** En enorm befrielse. Under loppet av ett halvår fick jag höra en hel del skit. Tyvärr sammanföll det med när det var som mörkast och mest vilset. För varje negativ kommentar kände jag mig som en båt som tog in mer och mer vatten, nästan på väg att sjunka. 
+2) **Jag blev mycket bättre på att hantera negativitet från omgivningen.** En enorm befrielse. Under en period fick jag höra en hel del skit. Tyvärr sammanföll det med när det var som mörkast och mest vilset. För varje negativ kommentar kände jag mig som en båt som tog in mer och mer vatten, nästan på väg att sjunka. 
 
-När den mentala styrkan började komma omvandlade jag istället mycket av det där till bränsle istället. Den gjorde att jag kunde distansera mig från den där negativa, mörka och vilsna skiten. Och i den här resan insåg jag att här finns det problem att ta tag i. Den insikten gjorde att jag började bygga en produkt som handlar om mental träning (**Headcoach**). Och lite senare ledde samma insikt till att jag började bygga en produkt till där mentala aspekter står i centrum (**Open Mind Club**, under utveckling just nu). 
+När den mentala styrkan började komma omvandlade jag istället mycket av det där till bränsle istället. Och efter ett tag slutade jag bry mig. Under den här resan började jag fundera mer och mer på att här finns det rätt stora problem att ta tag i, ur ett samhällsperspektiv. Och kanske kan jag bygga något som kan hjälpa folk? Låt mig göra ett försök, blev slutsatsen.
+
+Den insikten gjorde att jag började bygga en webapp som handlar om mental träning (**Headcoach**, lanseras närsomhelst). Och lite senare ledde samma insikt till att jag började bygga ett community där mentala aspekter står i centrum (**Open Mind Club**, under utveckling just nu). 
+
+Återstår att se om detta är något som kan hjälpa folk. Men jag är övertygad om att så är fallet.
 
 **Jag tror numera enormt mycket på interna faktorer.** Och ska jag säga något generellt så blir det - fokusera i första hand, eller till och med helt och hållet, på det som du själv kan kontrollera. På det som du kan påverka. På vad du mår bra av att göra. Fokusera mindre eller inte alls på saker som är utanför din kontroll. Fokusera mindre på sådant som bara irriterar gällande vad andra gör, eller vad andra inte gör. Gör i så fall något konstruktivt och positivt av det istället.
 
