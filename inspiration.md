@@ -5,16 +5,15 @@ permalink: /inpiration/
 feature_image: raily
 ---
 
-## Citat
+# Citat
 
 I **When Things Fall Apart**, berättar
 Pema Chödrön historien om en ung krigare som lär sig att besegra rädslan genom att fråga rädslan själv hur det ska gå till. Rädslan är helt ärlig med hur den fungerar:
 
 > “My weapons are that I talk fast, and I get very close to your face. Then you get completely unnerved, and you do whatever I say.
-If you don’t do what I tell you, I have no power. You can listen to me, and you can have respect for me. You can even be convinced by me.
-But if you don’t do what I say, I have no power.”
+If you don’t do what I tell you, I have no power. You can listen to me, and you can have respect for me. You can even be convinced by me. But if you don’t do what I say, I have no power.”
 
-Med andra ord, rädslan är en översittare. En mobbare och tyrann. Den säger vad du ska göra, och när du lyder ökar dess makt.
+**Med andra ord, rädslan är en översittare.** En mobbare och tyrann. Den säger vad du ska göra, och när du lyder ökar dess makt.
 Men om du bara lyssnar på rädslan,och struntar i vad den säger, då bygger du mod.
 
 
