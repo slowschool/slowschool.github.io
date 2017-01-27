@@ -25,12 +25,9 @@ Men om du bara lyssnar på rädslan,och struntar i vad den säger, då bygger du
 
 **StayFocusd (Google Chrome)**
 
-StayFocusd is a free Chrome add-on that stops a user-defined list of websites from loading. The extension offers a "nuclear option" that blocks all websites, when the work needs doing now, as well as a "SmartBomb" option that just blocks content like videos and pictures.
+StayFocusd är ett gratis Chrome-tillägg där du som användare blockerar webbplatser från att laddas. StayFocusd erbjuder ett "nuclear option" som blockerar alla webbplatser. Bra när du verkligen behöver arbeta här och nu. Du kan även välja "SmartBomb", som blockerar innehåll som video och bilder.
 
 **Freedom (iPhone, iPad, Android, Mac and Windows)**
 
-Freedom is a website blocker that runs on a wide range of platforms. The developers say it is the only distraction-blocker to work on the iPhone and iPad, and it has the ability to shut off internet access from the entire device, not just Safari. The login system means settings are shared among all devices. Perfect for staying on task.
+Freedom är en annan webbplats-blockerare, den ende(?) som även fungerar med iPhone och iPad. Freedom kan stänga ner Internet om så önskas. Perfekt när du vill hålla fokus på en uppgift.
 
-**SelfControl**
-
-SelfControl is a free Mac app that blocks websites from loading. Simply tell SelfControl which websites to block, set the timer, and they'll stop loading. The clever part is that the websites will stay blocked even if the computer is restarted or the app is deleted. There's no getting around it. Use it to block Facebook during essay writing, or ban YouTube during work hours.
