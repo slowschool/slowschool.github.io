@@ -1,6 +1,6 @@
 ---
-layout: static
-
+layout: page
+comments: true
 permalink: /produkter/
 feature_image: amazing
 ---
