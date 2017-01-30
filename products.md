@@ -30,9 +30,11 @@ Och nej, någon quick fix handlar det inte om.
 
 **Under utveckling just nu**
 
-## Open Mind Club - Livets största lärdomar kommer när du utmanar dig själv. Magi uppstår när du gör det tillsammans med andra.
+## Open Mind Club.
 
-Ett community som handlar om att utmana sig själv på olika sätt. Eller om vi ska gå lite djupare - ett community...
+Livets största lärdomar kommer när du utmanar dig själv. Magi uppstår när du gör det tillsammans med andra.
+
+Det här är ett community som handlar om att utmana sig själv på olika sätt. Eller om vi ska gå lite djupare - ett community...
 
 För dig som vill veta vem du kan bli. För dig som vill bli bekväm med det som är obekvämt idag. För dig som förstår att du måste utmana dig själv för att förverkliga drömmar. För dig som vill ha en plats där taket är så högt att du känner att det är ok att göra och skapa lite vadsomhelst, ta ut svängarna, ta risker, dela idéer.
 
