@@ -5,6 +5,8 @@ permalink: /produkter/
 feature_image: amazing
 ---
 
+Det här är vad som finns eller som är på gång i produktväg just nu. Idéer och förslag? Kommentera i så fall gärna!
+
 ## Kurs: Designa din dag för maximal produktivitet.
 
 Har du vad som krävs för att hacka din produktivitet? Den här kursen är för dig som är ute efter att bli mer produktiv. Som hellre jobbar smartare än hårdare. Bland annat genom grymma morgonrutiner, regelbundna raster och jobbintervaller. 
@@ -23,7 +25,19 @@ Mycket handlar om att skapa en bättre relation till sig själv.
 Jag började bygga Headcoach under en period då jag insåg att jag verkligen måste ta tag i mental träning. Med Headcoach kan du kartlägga din stress och utveckla mer positiva tankar. Du uppmanas att utmana dig själv på daglig basis.
 
 Plus en hel del annat. Förhoppningsvis blir du bättre på att tackla motgångar. Bättre på att hantera stress. Förhoppningsvis 
-växer du flera nivåer genom att ofta utmana dig själv. Förhoppningsvis utvecklar du bättre disciplin och tålamod. Det mesta är upp till dig. Headcoach är ett stöd på vägen. 
-Men nej, någon quick fix handlar det inte om.
+växer du flera nivåer genom att ofta utmana dig själv. Förhoppningsvis utvecklar du bättre disciplin och tålamod. Men bara för att vara tydlig - det mesta är upp till dig. Headcoach är bara ett stöd på vägen. 
+Och nej, någon quick fix handlar det inte om.
 
-Länk:
+**Under utveckling just nu**
+
+## Open Mind Club - Livets största lärdomar kommer när du utmanar dig själv. Magi uppstår när du gör det tillsammans med andra.
+
+Ett community som handlar om att utmana sig själv på olika sätt. Eller om vi ska gå lite djupare - ett community...
+
+För dig som vill veta vem du kan bli. För dig som vill bli bekväm med det som är obekvämt idag. För dig som förstår att du måste utmana dig själv för att förverkliga drömmar. För dig som vill ha en plats där taket är så högt att du känner att det är ok att göra och skapa lite vadsomhelst, ta ut svängarna, ta risker, dela idéer.
+
+Ett community...
+
+För dig som inte tänker göra vad rädslan säger. För dig som inte tänker låta misstag få dig att ge upp. För dig som inte tänker låta "alla andra" diktera vad du ska göra. För dig som inte tänker hålla dig själv tillbaka. För dig som inte behöver någon annans tillåtelse för att sätta igång.
+
+**Under utveckling just nu**
