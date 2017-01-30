@@ -15,9 +15,9 @@ square_related: recommend-wolf
 
 *Det här inlägget är ett utdrag från kursen: Designa din dag för maximal produktivitet.*
 
-Draugiem Group, ett företag inom socialt nätverkande , ville undersöka sina anställdas produktivitet. De ville identifiera vilka som var mest produktiva, och framförallt, om det gick att dra några slutsatser om varför det var så.
+Draugiem Group, ett företag inom socialt nätverkande , undersökte sina anställdas produktivitet. De ville identifiera vilka som var mest produktiva, och framförallt, om det gick att dra några slutsatser om varför det var så.
 
-Resultatet? En grupp (10%) var överlägset mest produktiv. Och de visade upp ett närmast identiskt mönster. Regelbundna pauser och intensiva jobbintervaller. Det var inte bara det att pauser togs regelbundet. Det handlade kanske ännu mer om hur dessa spenderades. Fokus låg helt på avslappning och omladdning av batterier.
+Resultatet? En grupp (10% av de anställda) var överlägset mest produktiv. Och de visade upp ett närmast identiskt mönster. Regelbundna pauser och intensiva jobbintervaller. Det var inte bara det att pauser togs regelbundet. Det handlade kanske ännu mer om hur dessa spenderades. Fokus låg helt på avslappning och omladdning av batterier.
 
 
 **Med hjälp av produktivitetsappen DeskTime kom man fram till ett idealt förhållande:**
@@ -40,7 +40,7 @@ Under de 17 minuterna av vila (om vi utgår ifrån att den tidsmässiga rekommen
 
 Men det viktigaste: Regelbundna pauser är det bästa sättet att hålla uppe koncentrationsförmågan.
 
-Lova dig själv att ta regelbundna pauser. Prata med din chef och kolleger om det, om du känner dig osäker. Uppmuntra andra att göra likadant. Om 17 minuter känns helt orealistiskt för dig eller chefen, ta 5 eller 10 minuter istället och se vilken effekt det har. Resultaten kan överraska.
+Lova dig själv att ta regelbundna pauser. Prata med din chef och kolleger om det, om du känner dig osäker. Uppmuntra andra att göra likadant. Om 17 minuter känns helt orealistiskt för dig eller chefen, ta 5 eller 10 minuter istället och se vilken effekt det har. Vem vet, resultaten kanske överraskar?.
 
 **Testa och diskutera gärna!**
 
