@@ -15,7 +15,7 @@ För tillfället ganska insnöad på att utveckla olika digitala produkter som k
 
 **Se mig inte som någon expert**. Andan är nyfiken och experimentell. Har testat och implementerat en hel del av det jag tar upp, andra saker är jag sugen på att testa, andra saker är sådant som jag tycker folk borde testa eller bara tänka på. Det här passar nog bäst om du också är åt det nyfikna och experimentella hållet. Och om du är villig att göra en del saker som antagligen ganska få i din närhet är.
 
-För egen del har jag utvecklat rätt många nya vanor som gjort enormt mycket nytta. Och det har skett på ganska kort tid. Så varför gör jag det här? Jag vill sprida idéer som kan inspirera till en annan livsstil, bättre hälsa, mer tid, mindre stress. Saker som kan bidra till större positivitet. Det är det ena. Det andra är att jag vill inspirera till handling.  
+För egen del har jag utvecklat rätt många nya vanor som gjort enormt mycket nytta. Och det har skett på ganska kort tid. Så varför gör jag det här? Jag vill sprida idéer som kan inspirera till en annan livsstil, bättre hälsa, mer tid, mindre stress. Saker som kan bidra till större positivitet. Och så vill jag verkligen inspirera till handling. Göra saker så konkreta och enkla som möjligt.
 
 Jag har haft Slow School i tankarna under flera år. Från början attraherades jag mest av den långsamma rörelsen (Slow Movement). Efterhand har det kommit att handla minst lika mycket om mentala och psykologiska aspekter. Om inte mer. Antagligen för att vissa saker i mitt liv kändes ganska mörkt och vilset för bara nåt år sen.
 
@@ -25,7 +25,7 @@ Jag började ta mental träning på stort allvar, och även om resultaten lät v
 
 2) **Jag blev mycket bättre på att hantera negativitet från omgivningen.** En enorm befrielse. Under en period fick jag höra en hel del skit. Tyvärr sammanföll det med när det var som mörkast och mest vilset. För varje negativ kommentar kände jag mig som en båt som tog in mer och mer vatten, nästan på väg att sjunka. 
 
-När den mentala styrkan började komma omvandlade jag istället mycket av det där till bränsle istället. Och efter ett tag slutade jag bry mig. Under den här resan började jag fundera mer och mer på att här finns det rätt stora problem att ta tag i, ur ett samhällsperspektiv. Och kanske kan jag bygga något som kan hjälpa folk? Låt mig göra ett försök, blev slutsatsen.
+När den mentala styrkan började komma omvandlade jag istället mycket av det där till bränsle istället. Och efter ett tag slutade jag bry mig. Under den här resan började jag fundera mer och mer på att här finns det rätt stora problem att ta tag i, ur ett samhälls -och, inte minst, individperspektiv. Och kanske kan jag bygga något som kan hjälpa folk? Låt mig göra ett försök, blev slutsatsen.
 
 Den insikten gjorde att jag började bygga en webapp som handlar om mental träning (**Headcoach**, lanseras närsomhelst). Och lite senare ledde samma insikt till att jag började bygga ett community där mentala aspekter står i centrum (**Open Mind Club**, under utveckling just nu). 
 
