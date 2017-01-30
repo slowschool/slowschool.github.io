@@ -28,7 +28,7 @@ Plus en hel del annat. Förhoppningsvis blir du bättre på att tackla motgånga
 växer du flera nivåer genom att ofta utmana dig själv. Förhoppningsvis utvecklar du bättre disciplin och tålamod. Men bara för att vara tydlig - det mesta är upp till dig. Headcoach är bara ett stöd på vägen. 
 Och nej, någon quick fix handlar det inte om.
 
-**Under utveckling just nu**
+**Under utveckling just nu.**
 
 ## Open Mind Club.
 
@@ -42,4 +42,4 @@ Ett community...
 
 För dig som inte tänker göra vad rädslan säger. För dig som inte tänker låta misstag få dig att ge upp. För dig som inte tänker låta "alla andra" diktera vad du ska göra. För dig som inte tänker hålla dig själv tillbaka. För dig som inte behöver någon annans tillåtelse för att sätta igång.
 
-**Under utveckling just nu**
+**Under utveckling just nu.**
