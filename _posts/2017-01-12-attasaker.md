@@ -67,4 +67,4 @@ Fokusera på att vara lojal mot dina värderingar och att göra ditt
 bästa, oavsett omständigheter. När dagen närmar sig sitt slut fråga dig inte, "Besegrade jag alla andra?". En betydligt mer relevant fråga - "Var jag lojal mot mina värderingar?"
 
 
-Försök applicera så mycket du kan. Och ha tålamod. 
+Försök applicera så mycket du bara kan. Och ha tålamod. 
