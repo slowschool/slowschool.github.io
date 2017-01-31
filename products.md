@@ -14,7 +14,7 @@ Har du vad som krävs för att hacka din produktivitet? Den här kursen är för
 Och givetvis - genom att utveckla en mer hälsosam relation till det digitala. Kursen bygger mycket på aktiviteter
 och är skapad i en community-miljö. Det finns alltså goda möjligheter till att inpirera och peppa andra deltagare.
 
-[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)
+**[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
 ## Webapp: Headcoach - För att mental styrka kan göra hela skillnaden.
 
