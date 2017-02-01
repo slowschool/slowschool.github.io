@@ -42,4 +42,6 @@ För dig som vill veta vem du kan bli. För dig som vill bli bekväm med det som
 
 För dig som inte tänker göra vad rädslan säger. För dig som inte tänker låta misstag få dig att ge upp. För dig som inte tänker låta "alla andra" diktera vad du ska göra. För dig som inte tänker hålla dig själv tillbaka. För dig som inte behöver någon annans tillåtelse för att sätta igång.
 
+**I skrivande stund kommer det finnas 17 olika grupper i Open Mind Club.** Några exempel: Positiva vibbar i samhället, Långsamma gruppen, Eventgruppen, Alltid lära-gruppen, Utforska platser-gruppen och Sociala utmaningar-gruppen.
+
 **Under utveckling just nu.**
