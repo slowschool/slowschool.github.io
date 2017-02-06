@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title:  "8 saker som kan hjälpa dig att bli mentalt starkare"
+title:  "Alltid lära -20 timmar."
 categories: mentalstyrka utmaningar
 author_name : Oscar T.
 author_url : /author/tege
@@ -11,10 +11,6 @@ feature_image: own
 show_related_posts: false
 ---
 
-
-
-
-ALLTID LÄRA - 20 TIMMAR.
 
 Låt oss säga att du kan lära dig vadsomhelst på 20 timmar, vad skulle du i så fall lära dig?
 Skulle du lära dig ett nytt språk? Ett nytt instrument? Lära dig att dansa?
