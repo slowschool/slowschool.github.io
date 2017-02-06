@@ -30,7 +30,7 @@ Första steget är att bryta ned färdigheten i mindre beståndsdelar. Bestäm e
 Desto mer du kan bryta ned färdigheten i olika beståndsdelar, desto lättare blir det att avgöra vad du ska fokusera på för att kunna klara det du vill.
 Och när du övar på de viktigaste grejerna först, kan du förbättra din nivå snabbast möjligt.
 
-*Så sätt igång.* Börja öva på det du vill lära dig, så du snabbast möjligt kan få feedback och börja rätta dig själv.
+**Så sätt igång.** Börja öva på det du vill lära dig, så du snabbast möjligt kan få feedback och börja rätta dig själv.
 Så fort du kan - lär dig känna igen hur bra ser ut, eller hur bra känns, så du kan ändra din approach om nödvändigt.
 Skaffa 3-5 resurser om det du vill lära dig. Det kan vara böcker, youtubekanaler, kurser. Vadsomhelst.
 
@@ -41,7 +41,7 @@ Internet och TV. Allt som hindrar dig från att sitta ner och göra jobbet. Disc
 Fokusera på att göra små förbättringar. Spendera omkring 45 minuter om dagen i en månad, och fokusera hela tiden på de små stegen.
 Efter en månad har de alla de här små stegen gjort att du sannolikt kommit ganska långt. Hur långt kan du komma?
 
-*20 timmar hjälper dig komma över frustrationsbarriären.*
+**20 timmar hjälper dig komma över frustrationsbarriären.**
 
 20 timmars investering i lärande hjälper dig att komma över den inledande "frustrationsbarriären." Det är ofta denna barriär som håller folk
 tillbaka från att lära sig nya saker, utforska nya intressen och i slutändan - uppnå sin potential.
