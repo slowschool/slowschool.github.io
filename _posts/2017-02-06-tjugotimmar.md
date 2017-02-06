@@ -7,7 +7,7 @@ author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
 show_avatar : true
-feature_image: surfer
+feature_image: surfa
 show_related_posts: false
 ---
 
