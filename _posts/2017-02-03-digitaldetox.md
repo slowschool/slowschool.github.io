@@ -30,7 +30,7 @@ ihåg hur du var innan smartphonen slog igenom, eller ännu mer, hur du slog ihj
 som sätts igång när du är en smula uttråkad.
 
 Du vill inte ha mobilen som första hjälpen under fester och sociala tillställningar. Du undrar när det blev mer värdefullt att dela 
-en upplevelse online, snarare än att uppleva den i ögonblicket. Det första du gör när du vaknar? Kollar mobilen.
+en upplevelse online, snarare än att uppleva den i ögonblicket. 
 Med Digitala Detox, digitala pauser, vad vi nu än må kalla det, strävar vi efter att hitta balans. Vi strävar efter att hitta en sundare relation till det digitala.
 
 **Genom att ta en paus ger du dig själv chansen att tillfälligt ta ett steg tillbaka.**
