@@ -31,7 +31,28 @@ StayFocusd är ett gratis Chrome-tillägg där du som användare blockerar webbp
 
 Freedom är en annan webbplats-blockerare, den ende(?) som även fungerar med iPhone och iPad. Freedom kan stänga ner Internet om så önskas. Perfekt när du vill hålla fokus på en uppgift.
 
+# Ted talks
+
+**Pico Iyer: The art of stillness.**
+Platsen som reseförfattaren Pico Iyer helst åker till? Ingenstans.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aUBawr1hUwo
 " target="_blank"><img src="http://img.youtube.com/vi/aUBawr1hUwo/0.jpg" 
 alt="Art of Stillness" width="240" height="180" border="10" /></a>
+
+**Andy Puddicombe: 10 minutes of mindfulness.**
+Allt som krävs är 10 minuter av mindfulness.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qzR62JJCMBQ
+" target="_blank"><img src="http://img.youtube.com/vi/qzR62JJCMBQ/0.jpg" 
+alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
+
+**Shawn Achor: The Happiness Advantage.**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GXy__kBVq1M
+" target="_blank"><img src="http://img.youtube.com/vi/GXy__kBVq1M/0.jpg" 
+alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
+
+
+
+
