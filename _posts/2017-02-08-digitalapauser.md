@@ -2,7 +2,7 @@
 layout: page
 comments: true
 title:  "5 feta fördelar med Digitala Detox."
-categories: mentalstyrka utmaningar
+categories: slowlife
 author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
@@ -12,21 +12,20 @@ show_related_posts: false
 ---
 
 
-XX gav sig iväg till XX för att delta i en digital detox.
-Detta är några av sakerna som hände. Och de borde få nästan vem som helst att vilja testa, kan jag tycka.
+Neuroforskare observerade 35 personer som var totalt bortkopplade från det digitala. Tillsammans, någonstans i den marockanska öknen. Detta är några av sakerna som hände. Och de borde få nästan vem som helst att vilja testa. 
 
 **Bättre hållning, djupare vänskap.**
 
-Efter tre dagar utan teknologi kunde en märkbar skillnad i deltagarnas hållning skönjas.
-De började anpassa sig så att de nu i första hand tittade folk i ögonen, istället för ner i skärmen.
-Detta öppnade framsidan av deras kroppar, tryckte tillbaka axlarna, nacken åter i fas med ryggraden.
-Folk fick i allmänhet bättre energi och en utstrålning som gjorde det lättare för andra att ta kontakt.
-Det blev lättare att föra avslappnade samtal och empati blev mer framträdande. 
+Efter tre dagar utan teknologi märktes en klar skillnad i deltagarnas hållning.
+De började anpassa sig så att de nu i första hand tittade folk i ögonen, istället för reflexmässigt ner i skärmen.
+Detta öppnade framsidan av deras kroppar, det tryckte tillbaka axlarna och nacken hamnade i bättre fas med ryggraden.
+Folk fick i allmänhet mer energi och en utstrålning som gjorde det lättare för andra att ta kontakt.
+Det blev lättare att föra avslappnade samtal och empati blev ett mer framträdande drag. 
 
 **Google är en samtalsdödare.**
 
-Samtalens innehåll förändrades utan teknologi. Folk vänder sig i vanliga fall omedelbart till Google.
-Utan Google? Då fortsätter folk att konversera medan de söker svar, vilket
+Samtalens innehåll förändrades utan teknologi. Folk vänder sig i vanliga fall omedelbart till Google när en fråga hänger i luften.
+Utan Google? Då fortsatte  folk att konversera medan de söker svar, vilket
 ofta resulterar i kreativa och roliga gissningslekar. Nya internskämt uppstår. Samtal som verkligen formar band mellan
 folk.
 
