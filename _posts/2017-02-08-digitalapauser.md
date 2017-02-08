@@ -26,8 +26,8 @@ Det blev lättare att föra avslappnade samtal och empati blev ett mer framträd
 
 Samtalens innehåll förändrades utan teknologi. Folk vänder sig i vanliga fall omedelbart till Google när en fråga hänger i luften.
 Utan Google? Då fortsatte  folk att konversera medan de söker svar, vilket
-ofta resulterar i kreativa och roliga gissningslekar. Nya internskämt uppstår. Samtal som verkligen formar band mellan
-folk.
+ofta resulterar i kreativa och roliga gissningslekar. Nya internskämt uppstår. 
+Samtal som verkligen formar band mellan folk.
 
 **Bättre minne.**
 
