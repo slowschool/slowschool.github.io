@@ -1,3 +1,17 @@
+---
+layout: page
+comments: true
+title:  "5 feta fördelar med Digitala Detox."
+categories: mentalstyrka utmaningar
+author_name : Oscar T.
+author_url : /author/tege
+author_avatar: otege
+show_avatar : true
+feature_image: surfa
+show_related_posts: false
+---
+
+
 XX gav sig iväg till XX för att delta i en digital detox.
 Detta är några av sakerna som hände. Och de borde få nästan vem som helst att vilja testa, kan jag tycka.
 
