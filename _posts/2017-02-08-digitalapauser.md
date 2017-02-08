@@ -7,7 +7,7 @@ author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
 show_avatar : true
-feature_image: phone
+feature_image: petva
 show_related_posts: false
 ---
 
