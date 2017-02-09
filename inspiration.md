@@ -53,6 +53,9 @@ alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/GXy__kBVq1M/0.jpg" 
 alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 
+# Artiklar
 
+När du vill påminna dig själv om varför du inte bör bry dig så mycket om vad andra tycker:
 
+[Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
