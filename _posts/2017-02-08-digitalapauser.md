@@ -1,7 +1,7 @@
 ---
 layout: page
 comments: true
-title:  "5 feta fördelar med Digitala Detox."
+title:  "5 rätt feta fördelar med Digitala Detox."
 categories: slowlife
 author_name : Oscar T.
 author_url : /author/tege
