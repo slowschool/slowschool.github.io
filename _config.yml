@@ -12,7 +12,7 @@ nav_list:
   Home_Alt : ['Inspiration', '/inpiration', 'fa-child']
   Produkter : ['Produkter', '/produkter/', 'fa-fire']
   Contact : ['Kontakta', '/contact', 'fa-plane']
-  Founder : ['OT', '/author/tege', 'fa-user']
+  Founder : ['Oscar T', '/author/tege', 'fa-user']
   Author : ['Zenny Slowfoot', '/author/slowfoot', 'fa-user']
 single_footer: '<p>För ett långsammare och mentalt starkare Sverige.<a href="/">senaste inlägg</a></p>'
 footer_links:
