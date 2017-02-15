@@ -13,7 +13,9 @@ show_related_posts: false
 
 Träna din hjärna till större positivitet. Det låter väl jäkligt bra?
 
-Lyckofördelen kommer från Harvardforskaren Shawn Achor, författare till "The Happiness Advantage".
+Lyckofördelen kommer från Harvardforskaren [Shawn Achor](https://www.youtube.com/watch?feature=player_embedded&v=GXy__kBVq1M), författare till "The Happiness Advantage".
+
+
 
 **Achor:** Om du kan höja din positivitet i nuet, kommer din hjärna uppleva en så kallad "lyckofördel". En positiv hjärna presterar mycket bättre än en negativ, neutral eller stressad. Energinivåer ökar, kreativitet ökar, intelligens ökar. En positiv hjärna kan öka din produktivitet upp till 31 procent.
 
