@@ -47,13 +47,13 @@ Allt som krävs är 10 minuter av mindfulness.
 " target="_blank"><img src="http://img.youtube.com/vi/qzR62JJCMBQ/0.jpg" 
 alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 
-**Shawn Achor: The Happiness Advantage. **
+**Shawn Achor: The Happiness Advantage.**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GXy__kBVq1M
 " target="_blank"><img src="http://img.youtube.com/vi/GXy__kBVq1M/0.jpg" 
 alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 
-**Nat Ware: Why we're unhappy -- the expectation gap. ** 
+**Nat Ware: Why we're unhappy -- the expectation gap.** 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9KiUq8i9pbE
 " target="_blank"><img src="http://img.youtube.com/vi/9KiUq8i9pbE/0.jpg" 
