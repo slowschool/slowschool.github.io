@@ -5,9 +5,11 @@ permalink: /produkter/
 feature_image: amazing
 ---
 
-Det här är vad som finns eller som är på gång i produktväg just nu. Idéer och förslag? Kommentera i så fall gärna!
+Det här är vad som redan finns eller vad som är på gång i produktväg just nu. Idéer och förslag? Kommentera i så fall gärna!
 
 ## Kurs: Designa din dag för maximal produktivitet.
+
+### Tema:produktivitet.
 
 Har du vad som krävs för att hacka din produktivitet? Den här kursen är för dig som är ute efter att bli mer produktiv. Som hellre jobbar smartare än hårdare. Bland annat genom grymma morgonrutiner, regelbundna raster och jobbintervaller. 
 
@@ -16,21 +18,17 @@ och är skapad i en community-miljö. Det finns alltså goda möjligheter till a
 
 **[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
-## Webapp: Headcoach - För att mental styrka kan göra hela skillnaden.
+## Webapp: Headcoach - För dig som hellre optimerar för lycka..
 
-Headcoach vill uppmuntra dig att ta mental träning på lika stort allvar som vilken annan träning som helst.
-För det kan göra så enormt mycket nytta. Och du behöver inte åka iväg till något gym.
-Mycket handlar om att skapa en bättre relation till sig själv.
+### Teman:Lycka, mental träning.
 
-Jag började bygga Headcoach under en period då jag insåg att jag verkligen måste ta tag i mental träning. Med Headcoach kan du kartlägga din stress och utveckla mer positiva tankar. Du uppmanas att utmana dig själv på daglig basis.
-
-Plus en hel del annat. Förhoppningsvis blir du bättre på att tackla motgångar. Bättre på att hantera stress. Förhoppningsvis 
-växer du flera nivåer genom att ofta utmana dig själv. Förhoppningsvis utvecklar du bättre disciplin och tålamod. Men bara för att vara tydlig - det mesta är upp till dig. Headcoach är bara ett stöd på vägen. 
-Och nej, någon quick fix handlar det inte om.
+Din lycka är något som du konsekvent måste jobba med. Och det finns väldigt konkreta grejer du kan jobba med. Headcoach vill få dig att göra just det. Allting som Headcoach tar upp kommer från forskning om vad som skapar lycka, stoicismen och positiv psykologi. 
 
 **Under utveckling just nu.**
 
 ## Open Mind Club.
+
+### Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, mental träning, gemenskap.
 
 Livets största lärdomar kommer när du utmanar dig själv. Magi uppstår när du gör det tillsammans med andra.
 
