@@ -1,4 +1,15 @@
-
+---
+layout: page
+comments: true
+title:  "Tar du rast eller?"
+categories: mentalstyrka
+author_name : Oscar T.
+author_url : /author/tege
+author_avatar: otege
+show_avatar : true
+feature_image: desertvan
+show_related_posts: false
+---
 
 Det här inlägget är inte bara en påminnelse om hur viktigt det är med raster. Det är även ett smakprov från min 
 kurs - "Designa din dag för maximal produktivitet".
