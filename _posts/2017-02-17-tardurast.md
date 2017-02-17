@@ -12,7 +12,7 @@ show_related_posts: false
 ---
 
 Det här inlägget är inte bara en påminnelse om hur viktigt det är med raster. Det är även ett smakprov från min 
-kurs - "Designa din dag för maximal produktivitet".
+kurs - **["Designa din dag för maximal produktivitet".](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
 
 ### Fördelarna med att ta regelbundna raster är många och väldokumenterade.
