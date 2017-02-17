@@ -2,7 +2,7 @@
 layout: page
 comments: true
 title:  "Tar du rast eller?"
-categories: mentalstyrka
+categories: produktivitet
 author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
