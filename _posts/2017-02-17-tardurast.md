@@ -20,7 +20,7 @@ kurs - **["Designa din dag för maximal produktivitet".](https://www.openlearnin
 
 Raster ger oss välbehövd tid för att vila ögonen. När vi rör på oss ökar syre - och blodflödet till hjärnan. Raster kan hjälpa oss att betrakta jobbrelaterade utmaningar på ett bättre och mer kreativt sätt. Och så vidare.
 
-Problemet är att vi ofta glömmer bort att ta dem. Eller vågar ta dem.
+Problemet är att vi ofta glömmer bort att ta dem. Eller kanske vågar ta dem?
 
 Observera: Toalettbesök, hämta en kaffe eller surf på internet räknas inte som rast i det här sammanhanget - då dessa aktiviteter knappast ger oss tillräckligt utrymme och tid för återställa energinivåer, koncentration och produktivitet.
 
