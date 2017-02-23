@@ -65,3 +65,11 @@ När du vill påminna dig själv om varför du inte bör bry dig så mycket om v
 
 [Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
 
+# Podcasts
+
+Tim Ferriss är antagligen den ultimata life-hackern. Oerhört stor inspirationskälla. Rekommenderar starkt att ni lyssnar på hans
+mycket populära podcast:
+[Tim Ferriss Podcast](http://tim.blog/podcast/)
+
+
+
