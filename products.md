@@ -6,6 +6,7 @@ feature_image: amazing
 ---
 
 Det här är vad som redan finns eller vad som är på gång i produktväg just nu. Idéer och förslag? Kommentera i så fall gärna!
+Eller maila mig på **oscar@slowschool.se**
 
 ## Open Mind Club.
 
