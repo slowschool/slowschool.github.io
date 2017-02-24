@@ -33,5 +33,7 @@ Den insikten gjorde att jag började bygga en webapp som handlar om mental trän
 
 **Jag tror numera enormt mycket på interna faktorer.** Och ska jag säga något generellt så blir det - fokusera i första hand, eller till och med helt och hållet, på det som du själv kan kontrollera. På det som du kan påverka. På vad du mår bra av att göra. Fokusera mindre eller inte alls på saker som är utanför din kontroll. Fokusera mindre på sådant som bara irriterar gällande vad andra gör, eller vad andra inte gör. Gör i så fall något konstruktivt och positivt av det istället.
 
+**För kontakt**, släng iväg ett mail till **oscar@slowschool.se**
+
 Det var allt just nu. **För ett långsammare och mentalt starkare Sverige.**
 
