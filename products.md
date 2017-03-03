@@ -24,7 +24,7 @@ För dig som inte tänker göra vad rädslan säger. För dig som inte tänker l
 
 **I skrivande stund finns det 17 olika grupper i Open Mind Club.** Några exempel: Positiva vibbar i samhället, Långsamma gruppen, Eventgruppen, Alltid lära-gruppen, Utforska platser-gruppen och Sociala utmaningar-gruppen.
 
-Just nu en veckas gratis prövoperiod!
+Just nu tio dagars gratis prövoperiod!
 
 **[Jag vill testa!](https://www.openmindclub.se/)**
 
