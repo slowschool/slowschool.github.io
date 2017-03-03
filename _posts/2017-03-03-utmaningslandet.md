@@ -14,7 +14,7 @@ show_related_posts: false
 
 Alice i Utmaningslandet.
 
-Den här texten är en för mig väldigt viktig del av Open Mind Club och är till ganska stora delar självbiografisk. Den vill inspirera 
+Den här texten är en för mig väldigt viktig del av **[Open Mind Club](https://www.openmindclub.se/)** och är till ganska stora delar självbiografisk. Den vill inspirera 
 och visa vad som kan hända när man på ett medvetet sätt regelbundet söker sig utanför sin komfortzon. Mycket bottnar nog i att jag vill 
 att Sverige ska bli ett land som blir oerhört mycket bättre på att uppmuntra följandet av egna drömmar.
 
