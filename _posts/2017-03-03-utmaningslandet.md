@@ -8,7 +8,7 @@ author_url : /author/tege
 author_avatar: otege
 show_avatar :
  true
-feature_image: ulandet
+feature_image: utmana
 show_related_posts: false
 ---
 
