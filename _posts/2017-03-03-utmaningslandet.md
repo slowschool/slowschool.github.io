@@ -21,7 +21,7 @@ att Sverige ska bli ett land som blir oerhört mycket bättre på att uppmuntra 
 "Låt oss tala lite om Alice, som inte backar från det obekväma. Snarare tvärtom.
 En dag fick hon ett brev från sin kära, alltid äventyrliga, aldrig tråkiga, farmor:
 
-*Kära Alice,*
+**Kära Alice,**
 
 Jag har några saker som jag verkligen vill att du ska ta med dig, eller tänka på. Jag vet att jag tjatat om det här tidigare, men  
 lyssna på din farmor lite extra noga idag.
@@ -36,7 +36,7 @@ många fantastiska saker, som du annars inte skulle göra.
 
 *“Live in prime time rather than watching in prime time.”*
 
-Det där citatet såg jag på en strandbar i Piteå. Det blev lite av ett mantra.
+**Det där citatet såg jag på en strandbar i Piteå. Det blev lite av ett mantra.**
 
 För livet är så mycket mer spännande om du hela tiden lär dig, växer och skapar kontakt. Försök att sätta din egen prägel på saker och 
 ting.
@@ -60,8 +60,7 @@ men en plats där drömmar kan glömmas bort och där du lätt står stilla.
 Det är ganska enkelt när du tänker efter. Stanna i det bekväma för mycket och du riskerar att fastna.
 
 Vi får veta så mycket om oss själva när vi tar risker. Vi får en tydligare bild av vad vi klarar av.
-Vi upptäcker vad vi går igång på,
-och börjar se delar av oss själva som vi kanske inte visste fanns. När du kommer i kontakt med andra sidor hos dig själv, då öppnar du 
+Vi börjar se delar av oss själva som vi kanske inte visste fanns. När du kommer i kontakt med andra sidor hos dig själv, då öppnar du 
 upp dig för förändring, tillväxt, framsteg, kärlek och förståelse.
 
 Följ inte alltid de stigar som redan är upplysta, ta fram macheten ibland och slå dig framåt i okänd terräng.
@@ -137,7 +136,7 @@ Nästa tur går till Wien eller Jukkasjärvi.
 
 Det blev som en snöbollseffekt. Små förändringar inledningsvis utvecklades till ett begär att växa mer och mer.
 
-Hon tänkte inte lika länge på vad hon ville göra, det blev mer att hon gjorde vad hon tänkte på.
+**Hon tänkte inte lika länge på vad hon ville göra, det blev mer att hon gjorde vad hon tänkte på.**
 
 En dag märke Alice plötsligt vilken enorm förändring som hon genomgått.
 Till en början kunde vissa utmaningar framstå som väldigt tuffa eller till och med omöjliga.
@@ -150,7 +149,7 @@ Alice tänker inte längre att något plötsligt bara kommer dyka upp en dag som
 Alice har lärt sig fokusera på det som verkligen fungerar,
 att lita på interna faktorer, det vill säga sig själv.
 
-*När det handlar om den personliga tillväxten och utvecklingen är hon fullt ansvarig.*
+**När det handlar om den personliga tillväxten och utvecklingen är hon fullt ansvarig.**
 
 Visst, en del har bättre förutsättningar, en bättre utgångshand, än andra. Men det mest avgörande är att agera och att göra det 
 konsekvent. Och att ha tålamod, även när resultaten inte är så snabba som du hoppats. Eller de önskade.
@@ -158,5 +157,5 @@ konsekvent. Och att ha tålamod, även när resultaten inte är så snabba som d
 Men en av de absolut skönaste sakerna...när en dag som åtminstone delvis spenderats utanför komfortzonen närmar sig slutet, känner hon 
 varken  ånger eller ilska.
 
-*Istället ligger Alice och tänker på hur hon ska erövra nästa dag.*
+**Istället ligger Alice och tänker på hur hon ska erövra nästa dag.**
 
