@@ -27,7 +27,7 @@ Jag började ta mental träning på stort allvar, och även om resultaten lät v
 
 När den mentala styrkan började komma omvandlade jag istället mycket av det där negativa till bränsle istället. Och efter ett tag slutade jag bry mig. Under den här resan började jag fundera mer och mer på att här finns det rätt stora problem att ta tag i, ur ett samhälls -och, inte minst, individperspektiv. Och kanske kan jag bygga något som kan hjälpa folk? Låt mig göra ett försök, blev slutsatsen.
 
-Den insikten gjorde att jag började bygga en webapp som handlar om mental träning (**Headcoach**, lanseras närsomhelst). Och lite senare ledde samma insikt till att jag kände ett behov av att utveckla ett community där mentala aspekter står i centrum (**Open Mind Club**, som du hittar här). Eller mer specifikt, ett community som handlar om att utmana sig själv utanför komfortzonen. Och nu utvecklar jag ett nytt projekt som kallas för Lyckojägaren.
+Den insikten gjorde att jag började bygga en webapp som handlar om mental träning (**Headcoach**, som fungerat lite som en personlig mental tränare). Och lite senare ledde samma insikt till att jag kände ett behov av att utveckla ett community där mentala aspekter står i centrum (**Open Mind Club**, som du hittar **[här](https://www.openmindclub.se/)**). Eller mer specifikt, ett community som handlar om att utmana sig själv utanför komfortzonen. Och nu utvecklar jag ett nytt projekt som kallas för Lyckojägaren.
 
 Återstår att se om detta är något som kan hjälpa folk. Men jag är övertygad om att så är fallet.
 
