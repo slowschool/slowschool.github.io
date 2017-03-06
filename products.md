@@ -32,10 +32,7 @@ Just nu tio dagars gratis prövoperiod!
 
 ### Tema:produktivitet.
 
-
-![alt text][logo]
-
-[logo]: https://github.com/slowschool/slowschool.github.io/blob/master/img/utmanaz.jpg "Logo Title Text 2"
+![Image of Yaktocat](https://github.com/slowschool/slowschool.github.io/blob/master/img/utmanaz.jpg) 
 
 Har du vad som krävs för att hacka din produktivitet? Den här kursen är för dig som är ute efter att bli mer produktiv. Som hellre jobbar smartare än hårdare. Bland annat genom grymma morgonrutiner, regelbundna raster och jobbintervaller. 
 
