@@ -51,8 +51,8 @@ trötthet, eller att tala inför grupp - stå ut med det obekväma. Det får dig
 
 ## 6) Praktisera tacksamhet.
 
-Det blir svårt att ha rätt fokus om du insisterar och kräver en massa saker. Som att du förtjänar bättre, eller tycka synd om sig själv. Något jag personligen gjorde ganska mycket fram till för ett år sedan ungefär. Jag vände istället fokus mot vad jag själv kan kontrollera och lärde mig bättre uppskatta det jag redan har. Och efter ett tag blev allting mycket lättare. 
-Gör det till en vana att visa tacksamhemt, både för de små och stora sakerna.
+Det blir svårt att ha rätt fokus om du insisterar och kräver en massa saker. Som att du förtjänar bättre, eller tycka synd om sig själv. Något jag personligen gjorde ganska mycket fram till för ett år sedan ungefär. Jag vände istället fokus mot vad jag själv kan kontrollera och lärde mig att bättre uppskatta det jag redan har. Och efter ett tag blev allting mycket lättare. 
+Gör det till en vana att visa tacksamhet, både för de små och stora sakerna.
 
 ## 7) Balansera känslor och logik.
 
