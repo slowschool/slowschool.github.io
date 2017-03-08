@@ -13,7 +13,10 @@ show_related_posts: false
 
 Ok, låt oss prata lite om mental styrka.
 
-Först och främst, mental styrka är något som utvecklas över tid. Gör din personliga utveckling till ett högprioriterat område. Då kommer den mentala styrkan sakta men säkert att byggas upp. Så har det varit för mig det senaste året eller så. Och skillnaden mot innan är enorm.
+Först och främst, när det handlar om mental styrka så hämtar jag mycket kunskap och inspiration från den fantastiske <a href="http://amymorinlcsw.com/"> Amy Morin.</a>
+
+
+Mental styrka är något som utvecklas över tid. Gör din personliga utveckling till ett högprioriterat område. Då kommer den mentala styrkan sakta men säkert att byggas upp. Så har det varit för mig det senaste året eller så. Och skillnaden mot innan är enorm.
 
 Mycket handlar om att lära sig undvika sådant som håller dig tillbaka. Likaså att etablera hälsosamma vanor som hjälper dig att bli ännu starkare.
 
