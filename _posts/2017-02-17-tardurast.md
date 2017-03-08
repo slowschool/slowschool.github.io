@@ -18,32 +18,33 @@ kurs - **["Designa din dag för maximal produktivitet".](https://www.openlearnin
 ### Fördelarna med att ta regelbundna raster är många och väldokumenterade.
 
 
-Raster ger oss välbehövd tid för att vila ögonen. När vi rör på oss ökar syre - och blodflödet till hjärnan. Raster kan hjälpa oss att betrakta jobbrelaterade utmaningar på ett bättre och mer kreativt sätt. Och så vidare.
+Låt oss börja med en del rätt uppenbara grejer.
+1. Raster ger oss välbehövd tid för att vila ögonen. 
+2. När vi rör på oss ökar syre - och blodflödet till hjärnan.
+3. Raster kan hjälpa oss att betrakta jobbrelaterade utmaningar på ett bättre och mer kreativt sätt. Och så vidare.
 
 Problemet är att vi ofta glömmer bort att ta dem. Eller kanske vågar ta dem?
 
-Observera: Toalettbesök, hämta en kaffe eller surf på internet räknas inte som rast i det här sammanhanget - då dessa aktiviteter knappast ger oss tillräckligt utrymme och tid för återställa energinivåer, koncentration och produktivitet.
+**Observera:** Toalettbesök, hämta en kaffe eller surf på internet räknas inte som rast i det här sammanhanget - då dessa aktiviteter knappast ger oss tillräckligt utrymme och tid för att återställa energinivåer, koncentration och produktivitet.
 
-Hur konstigt det än må låta, att komma ihåg att ta regelbundna pauser under arbetsdagen kräver disciplin och en del planering. En anledning till att många pushar sig själv till eller förbi gränsen för utmattning är att de inte kan komma på något tillräckligt intressant att göra på sina raster. Så istället slutar det med att de sitter och arbetar 4-5 timmar i sträck, tills kroppen ger dem en brutal påminnelse.
+Hur konstigt det än må låta, att komma ihåg att ta regelbundna pauser under arbetsdagen kräver inte sällan disciplin och kanske till och med en del planering. En anledning till att många pushar sig själv till eller förbi gränsen för utmattning är att det kan vara svårt att komma på något tillräckligt intressant att göra under rasterna. Så istället slutar det lätt med 4-5 timmars arbete i utan paus, eller kanske ännu mer, tills kroppen kommer med en brutal påminnelse.
 
 
 **Studie efter studie, expert efter expert.**
 
-Alla tycks vara överens: Att ta regelbundna, korta pauser för att slappna av och ladda om är inte bara bra för hälsan - det höjer även vår prestation och produktivitet.
-
-Det finns ett flertal överraskande fördelar med vilan. Först och främst främjas produktiviteten. Att jobba för länge med samma sak kan vara förödande för ditt engagemang för en viss uppgift.
+Alla tycks vara överens: Att ta regelbundna, korta pauser för att slappna av och ladda om är inte bara bra för hälsan - det höjer även 
+prestation och produktivitet.
 
 Att göra samma sak för länge leder till kognitiv uttråkning, vilket hindrar din förmåga att lyckas med vad du gör.
 
-Vår kropp är inte designad för att sitta still i 8-timmars-intervaller. Därför är det ingen överraskning att forskning kommit fram till att du måste undvika heldagssittande om du vill maximera din produktivitet.
+Vår kropp är inte designad för att sitta still i 8-timmars-intervaller. Därför är det ingen överraskning att forskning kommit fram till att heldagssittande är något att undvika...om du vill maximera din produktivitet.
 
 Vår hjärna är varken konstruerad för och saknar förmåga att fokusera i 8 timmars-intervaller.
 
 Regelbundna pauser är det bästa sättet att hålla uppe koncentrationsförmågan.
 
-Ingen är 100% produktiv under hela dagen. Hur mycket du än vill maximera varje minut och hela tiden få saker gjorda, så är det inte möjligt.
 
-Koncentrationsförmågan är som en muskel. Den behöver vila för att fungera fullt ut, och den klarar inte för mycket belastning.
+Koncentrationsförmågan är som en muskel. Den behöver vila för att fungera fullt ut, klarar inte för mycket belastning.
 
 Annars blir den till slut utbränd och behöver sedan längre tid för att återhämta sig till den tidigare nivån.
 
