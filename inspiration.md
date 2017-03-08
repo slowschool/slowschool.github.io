@@ -59,6 +59,14 @@ alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/9KiUq8i9pbE/0.jpg" 
 alt="Why we´re unhappy" width="240" height="180" border="10" /></a>
 
+**Amy Morin: The Secret of Becoming Mentally Strong** 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TFbv757kup4
+" target="_blank"><img src="http://img.youtube.com/vi/TFbv757kup4/0.jpg" 
+alt="Why we´re unhappy" width="240" height="180" border="10" /></a>
+
+
+
 # Artiklar
 
 När du vill påminna dig själv om varför du inte bör bry dig så mycket om vad andra tycker:
