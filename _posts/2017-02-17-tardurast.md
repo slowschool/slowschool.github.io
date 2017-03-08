@@ -61,6 +61,11 @@ Men det är svårt att blunda för de studier som kommit fram till att över hä
 
 *Det ska sägas att just de här studierna genomförts på amerikansk mark. Men problemen finns naturligtivs i allra högsta grad även här.
 
+**Mer om raster:**
+<a href="http://www.lifehack.org/articles/productivity/21-counter-intuitive-break-ideas-to-boost-your-productivity-at-work.html">21 förslag att göra på rasten.</a>
+
+<a href="http://www.inc.com/oscar-raymundo/why-arianna-huffington-wants-you-to-go-take-a-break.html">Huffington vill att du tar rast.</a>
+
 
 
 **Känner du igen dig? Hur ofta tar du paus under en arbetsdag? Hur är attityden på din arbetsplats?** 
