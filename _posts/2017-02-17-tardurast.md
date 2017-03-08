@@ -19,9 +19,9 @@ kurs - **["Designa din dag för maximal produktivitet".](https://www.openlearnin
 
 
 Låt oss börja med en del rätt uppenbara grejer.
-1. Raster ger oss välbehövd tid för att vila ögonen. 
-2. När vi rör på oss ökar syre - och blodflödet till hjärnan.
-3. Raster kan hjälpa oss att betrakta jobbrelaterade utmaningar på ett bättre och mer kreativt sätt. Och så vidare.
+1.Raster ger oss välbehövd tid för att vila ögonen. 
+2.När vi rör på oss ökar syre - och blodflödet till hjärnan.
+3.Raster kan hjälpa oss att betrakta jobbrelaterade utmaningar på ett bättre och mer kreativt sätt. Och så vidare.
 
 Problemet är att vi ofta glömmer bort att ta dem. Eller kanske vågar ta dem?
 
