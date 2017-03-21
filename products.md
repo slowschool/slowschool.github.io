@@ -10,40 +10,40 @@ Eller maila mig på **oscar@slowschool.se**
 
 ## Open Mind Club.
 
-### Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, mental träning, gemenskap.
+**Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, mental träning, gemenskap.**
 
-Livets största lärdomar kommer när du utmanar dig själv. Magi uppstår när du gör det tillsammans med andra.
+Det kan vara svårt att bryta sig loss från sin komfortzon, inget snack om det. Men samtidigt väldigt bra för dig. Med ökad förståelse och några justeringar här och där...så kan du bryta dig loss från det rutinmässiga och göra väldigt spännande saker. Ja...sånt som får dig att växa och utvecklas.
 
-Det här är ett community som handlar om att utmana sig själv på olika sätt. Eller om vi ska gå lite djupare - ett community...
+Alla som någon gång pushat sig själv till en högre nivå vet att du kan nå fantastiska resultat när du utmanar dig själv.
 
-För dig som vill veta vem du kan bli. För dig som vill bli bekväm med det som är obekvämt idag. För dig som förstår att du måste utmana dig själv för att förverkliga drömmar. För dig som vill ha en plats där taket är så högt att du känner att det är ok att göra och skapa lite vadsomhelst, ta ut svängarna, ta risker, dela idéer.
+Det är alltså det som Open Mind Club handlar om. Vi ska skapa en plats där vi utmanar oss själva på olika sätt, testar oss fram och pushar varandra. Det här med att utmana oss själva ska bli en naturlig del av vår vardag.
 
-**Ett community...**
+För det finns få saker som inspirerar och utbildar oss lika mycket som att söka efter nya upplevelser, utveckla nya färdigheter och att öppna dörrar till nya idéer.
 
-För dig som inte tänker göra vad rädslan säger. För dig som inte tänker låta misstag få dig att ge upp. För dig som inte tänker låta "alla andra" diktera vad du ska göra. För dig som inte tänker hålla dig själv tillbaka. För dig som inte behöver någon annans tillåtelse för att sätta igång.
+Det är naturligtvis helt ok att ta små steg, att göra saker och ting i din egen takt. Självklart! För det krävs inte sällan rätt mycket mod för att bryta dig loss från din komfortzon. Ok, det var en lite introduktion
+det. 
 
-**I skrivande stund finns det 17 olika grupper i Open Mind Club.** Några exempel: Positiva vibbar i samhället, Långsamma gruppen, Eventgruppen, Alltid lära-gruppen, Utforska platser-gruppen och Sociala utmaningar-gruppen.
+Och vill du testa så är det två veckors gratis prövoperiod just nu.
 
-Just nu tio dagars gratis prövoperiod!
 
 **[Jag vill testa!](https://www.openmindclub.se/)**
 
 ## Kurs: Designa din dag för maximal produktivitet.
 
-### Tema:produktivitet.
+**Tema:produktivitet.**
 
  Har du vad som krävs för att hacka din produktivitet? Den här kursen är för dig som är ute efter att bli mer produktiv. Som hellre jobbar smartare än hårdare. Bland annat genom grymma morgonrutiner, regelbundna raster och jobbintervaller. 
 
 Och givetvis - genom att utveckla en mer hälsosam relation till det digitala. Kursen bygger mycket på aktiviteter
-och är skapad i en community-miljö. Det finns alltså goda möjligheter till att inpirera och peppa andra deltagare.
+och är skapad i en community-miljö. 
 
 **[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
 
-## Lyckojägaren - För dig som hellre optimerar för lycka..
+## Lyckoskaparen - För dig som hellre optimerar för lycka..
 
-### Teman:Lycka, mental träning.
+**Teman:Lycka, mental träning.**
 
-Din lycka är något som du konsekvent måste jobba med. Och det finns väldigt konkreta grejer du kan jobba med. Lyckojägaren handlar om just det och bygger på forskning om vad som skapar lycka, på visdom från stoicismen och från positiv psykologi.
+Din lycka är något som du konsekvent måste jobba med. Det handlar om att skapa vanor. Och det finns väldigt konkreta och enkla grejer du kan jobba med. Lyckoskaparen handlar om just det och bygger på forskning om vad som skapar lycka, på visdom från stoicismen och från lite smått och gott från positiv psykologi.
 
 **Under utveckling just nu.**
