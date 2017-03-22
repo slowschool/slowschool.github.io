@@ -40,7 +40,7 @@ och är skapad i en community-miljö.
 **[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
 
-## Lyckoskaparen - För dig som hellre optimerar för lycka..
+## Lyckoskaparen - För dig som hellre optimerar för lycka.
 
 **Teman:Lycka, mental träning.**
 
