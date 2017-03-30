@@ -12,7 +12,7 @@ show_related_posts: false
 ---
 
 När det gäller att sänka farten så handlar mycket om att ta hand om sig själv. 
-Idag ska jag prata lite Shinrin-Yoku, eller skogsbada, som vi nog får kalla det för på svenska. 
+Idag ska jag prata lite Shinrin-Yoku, eller skogsbad, som vi nog får kalla det för på svenska. 
 
 **Shinrin-Yoku är ett japanskt fenomen som lanserades av regeringen på 80-talet.** Syftet var att stressade japaner med alla sinnen skulle 
 ta in skogens lugnande kraft för att öka fysiskt och psykiskt välmående. Eftersom studie efter studie (många japanska) visat att vistelse 
@@ -27,3 +27,7 @@ kanske kör du några Yogaövningar. Var gärna ute i några timmar.
 
 **Hälsovinsterna med Shinrin-Yoku?** Det sänker blodtryck, det sänker stresshormoner, det stärker immunförsvaret, det ökar din energi och 
 stärker ditt fokus. Allt enligt forskning. Det låter väl inte så illa? Och i Sverige har vi ju fantastiska förutsättningar för det här. Så ut och skogsbada!
+
+Här kan du läsa mer: <a href="https://www.weforum.org/agenda/2017/03/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you">Shikrin-Yoku är
+väldigt bra för dig, och vetenskapligt bevisat.</a>
+
