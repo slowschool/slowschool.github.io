@@ -12,7 +12,9 @@ Eller maila mig på **oscar@slowschool.se**
 
 **Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, mental träning, gemenskap.**
 
-Det kan vara svårt att bryta sig loss från sin komfortzon, inget snack om det. Men samtidigt väldigt bra för dig. Med ökad förståelse och några justeringar här och där...så kan du bryta dig loss från det rutinmässiga och göra väldigt spännande saker. Ja...sånt som får dig att växa och utvecklas.
+Kan vi bygga ett community som handlar om att utmana oss själva utanför våra komfortzoner? Där vi tillsammans utmanar oss själva, utmanar varandra...pushar och stöttar varandra. Där vi hjälper varandra att kliva över olika hinder. Där nyfikenheten, öppenheten och experimentlustan är det som guidar oss. Kan vi det? 
+
+Det kan vara svårt att bryta sig loss från sin komfortzon, inget snack om det. Men samtidigt väldigt bra för dig. 
 
 Alla som någon gång pushat sig själv till en högre nivå vet att du kan nå fantastiska resultat när du utmanar dig själv.
 
@@ -40,10 +42,10 @@ och är skapad i en community-miljö.
 **[Ta mig till kursen!](https://www.openlearning.com/courses/designa-din-dag-fr-maximal-produktivitet)**
 
 
-## Lyckoskaparen - För dig som hellre optimerar för lycka.
+## Lyckogrävaren - För dig som hellre optimerar för lycka.
 
 **Teman:Lycka, mental träning.**
 
-Din lycka är något som du konsekvent måste jobba med. Det handlar om att skapa vanor. Och det finns väldigt konkreta och enkla grejer du kan jobba med. Lyckoskaparen handlar om just det och bygger på forskning om vad som skapar lycka, på visdom från stoicismen och från lite smått och gott från positiv psykologi.
+Din lycka är något som du konsekvent måste jobba med. Det handlar om att skapa vanor. Och det finns väldigt konkreta och enkla grejer du kan jobba med. Lyckogrävaren handlar om just det och bygger på forskning om vad vi själva kan göra för att bygga lycka. Kryddat med en del visdom från stoicismen och lite smått och gott från positiv psykologi.
 
 **Under utveckling just nu.**
