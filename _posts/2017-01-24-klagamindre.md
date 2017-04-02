@@ -16,16 +16,16 @@ square_related: recommend-sunset
 **Utmaning:** Klaga så lite du kan under en hel månad.
 
 
-**Förmodat resultat:** Ett gladare, mer positivt liv.
+**Förmodat resultat:** En gladare och mer positiv tillvaro.
 
 Antar du utmaningen? Jättebra. 
 
-Enligt forskning klagar de flesta en gång i minuten under ett vanligt samtal. Det låter nästan osannolikt, eller?. Att klaga kan kännas bra för stunden. Men som med så mycket annat som kan kännas bra i stunden, som att äta ett kilo bacon till frukost, så är klagande inte bra för dig.
+Enligt forskning klagar de flesta en gång i minuten under ett vanligt samtal. Det låter nästan osannolikt, eller? Att klaga kan kännas bra för stunden. Men som med så mycket annat som kan kännas bra i stunden, så är klagande inte bra för dig.
 
 
 Ju mindre du klagar, desto mer får du gjort. Det vågar jag nästan lova.
 
-För i samma ögonblick som du slutar klaga, så tar du ansvar. Och desto mer ansvar du tar, desto mer kontroll över vad du gör. Det är ju helt klart en väsentlig skillnad på att själv vilja eller välja att göra något, istället för att bara tänka att du måste. 
+För i samma ögonblick som du slutar klaga, så tar du ansvar. Och ju mer ansvar du tar, desto mer kontroll över vad du gör. Det är ju helt klart en väsentlig skillnad på att själv vilja och välja att göra något, istället för att tänka att du måste. 
 
 
 **Vad vi i första hand vill minimera med den här utmaningen?** Klagande och gnällande på saker som är utanför vår kontroll.
@@ -55,8 +55,8 @@ Femte? Efter två veckor?
 
 ## Distansera dig från folk som gillar att klaga mycket.
 
-Om du måste lyssna, bidra med ett positivt perspektiv istället för att hänga på när klagostormen
-är igång. Över tid kommer du bli lämnad ifred av personer som klagar mycket, då du inte ger dem det
+Försök att bidra med ett positivt perspektiv istället för att hänga på när klagostormen
+är igång. Över tid kommer du antagligen bli lämnad ifred av personer som klagar mycket, då du inte ger dem det
 stimuli som de söker efter.
 
 ## Förvandla klagomål till lösningar.
@@ -65,7 +65,7 @@ Sitt inte bara och beundra problemet. Gör någonting åt det.
 
 ## Ändra "Jag måste" till "Jag får".
 
-"Jag måste hämta barnen" blir istället "Jag får hämta mina barn". Ändra en klagande röst till en uppskattande och tacksam.
+"Jag måste hämta barnen" blir istället "Jag får hämta mina barn". För att ta ett exempel. Ändra en klagande röst till en uppskattande och tacksam.
 
 Så kom igen, anta utmaningen!
 
