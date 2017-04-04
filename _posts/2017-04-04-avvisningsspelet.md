@@ -2,7 +2,7 @@
 layout: page
 comments: true
 title:  "Avvisningar som spel?"
-categories: produktivitet utmaningar 
+categories: mentalstyrka utmaningar 
 author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
@@ -19,7 +19,7 @@ Jia undrade - hur skulle han besegra rädslan för att bli avvisad?
 Han gjorde det nämligen till ett spel - Rejection Game. I 100 dagar ställde han massor med absurda 
 förfrågningar och önskemål till främlingar, hela tiden beredd på att bli avvisad, hela tiden inställd på att få ett nej. 
 Han förklarar exakt hur allt utspelade sig i sin inspirerande bok - 
-Rejection Proof: How I Beat Fear and Became Invincible Through 100 Days of Rejection.
+<a href="http://rejectiontherapy.com/book/">Rejection Proof: How I Beat Fear and Became Invincible Through 100 Days of Rejection.</a>
 
 Hur det gick? Han fick massor med nej och avvisanden, såklart. Men han fick också uppleva ett antal oväntade ja.
 Med en fotboll i handen knackar han på en främlings dörr:"Kan jag spela fotboll på din tomt?" 
