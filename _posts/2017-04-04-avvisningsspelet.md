@@ -11,15 +11,15 @@ feature_image: dezertvan
 show_related_posts: false
 ---
 
-Jia Jiang drömde om att bli entreprenör. Att förverkliga en sådan dröm innebär inte sällan en väg kantad av nej och avvisningar. 
-Jia undrade - hur skulle han besegra rädslan för att bli avvisad? 
+Jia Jiang drömde om att bli entreprenör. Förverkligandet av sådan dröm innebär inte sällan en väg kantad av nej och avvisningar. 
+Hur skulle han besegra rädslan för att bli avvisad? 
 
 **Vi får nog kalla hans lösning för ganska så innovativ...**
 
 Han gjorde det nämligen till ett spel - Rejection Game. I 100 dagar ställde han massor med absurda 
 förfrågningar och önskemål till främlingar, hela tiden beredd på att bli avvisad, hela tiden inställd på att få ett nej. 
 Han förklarar exakt hur allt utspelade sig i sin inspirerande bok - 
-<a href="http://rejectiontherapy.com/book/">Rejection Proof: How I Beat Fear and Became Invincible Through 100 Days of Rejection.</a>
+[Rejection Proof: How I Beat Fear and Became Invincible Through 100 Days of Rejection](http://rejectiontherapy.com/book/)
 
 Hur det gick? Han fick massor med nej och avvisanden, såklart. Men han fick också uppleva ett antal oväntade ja.
 Med en fotboll i handen knackar han på en främlings dörr:"Kan jag spela fotboll på din tomt?" 
