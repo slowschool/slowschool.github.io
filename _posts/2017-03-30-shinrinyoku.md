@@ -2,7 +2,7 @@
 layout: page
 comments: true
 title:  "Ska du med och skogsbada?"
-categories: mentalstyrka slowlife
+categories: slowlife
 author_name : Zenny Slowfoot
 author_url : /author/slowfoot
 author_avatar: slothy
