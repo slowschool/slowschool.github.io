@@ -24,10 +24,12 @@ alt="10 minutes of nothing" width="240" height="180" border="10" /></a>
 
 
 **Carl Honore: In praise of slowness**
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UhXiHJ8vfuk" target="_blank"><img src="http://img.youtube.com/vi/UhXiHJ8vfuk/0.jpg" 
 alt="In praise of slowness" width="240" height="180" border="10" /></a>
 
 
 **Paolo Cardini: Forget multitasking, try monotasking**
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0YNeyBANrTI" target="_blank"><img src="http://img.youtube.com/vi/0YNeyBANrTI/0.jpg" 
-alt="In praise of slowness" width="240" height="180" border="10" /></a>
+alt="Monotasking" width="240" height="180" border="10" /></a>
