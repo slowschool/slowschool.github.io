@@ -33,3 +33,9 @@ alt="In praise of slowness" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0YNeyBANrTI" target="_blank"><img src="http://img.youtube.com/vi/0YNeyBANrTI/0.jpg" 
 alt="Monotasking" width="240" height="180" border="10" /></a>
+
+**The Art of Letting Go | The Minimalists**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w7rewjFNiys" target="_blank"><img src="http://img.youtube.com/vi/w7rewjFNiys/0.jpg" 
+alt="Monotasking" width="240" height="180" border="10" /></a>
+
