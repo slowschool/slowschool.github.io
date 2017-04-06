@@ -28,6 +28,16 @@ kanske kör du några Yogaövningar. Var gärna ute i några timmar.
 **Hälsovinsterna med Shinrin-Yoku?** Det sänker blodtryck, det sänker stresshormoner, det stärker immunförsvaret, det ökar din energi och 
 stärker ditt fokus. Allt enligt forskning. Det låter väl inte så illa? Och i Sverige har vi ju fantastiska förutsättningar för det här. Så ut och skogsbada!
 
-Här kan du läsa mer: <a href="https://www.weforum.org/agenda/2017/03/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you">Shikrin-Yoku är
+Här kan du läsa mer: <a href="https://www.weforum.org/agenda/2017/03/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you">Shinrin-Yoku är
 väldigt bra för dig, och vetenskapligt bevisat.</a>
+
+<a href="http://www.natureandforesttherapy.org/">The medicine of being in the forest</a>
+
+
+**How Forests Heal People.**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y-wHq6yY2CI
+" target="_blank"><img src="http://img.youtube.com/vi/y-wHq6yY2CI/0.jpg" 
+alt="Art of Stillness" width="240" height="180" border="10" /></a>
+
 
