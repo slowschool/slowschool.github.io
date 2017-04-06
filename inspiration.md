@@ -21,13 +21,14 @@ Men om du bara lyssnar på rädslan,och struntar i vad den säger, då bygger du
 
 > “When you’re 20, you care about what everyone thinks. When you’re 40, you stop caring about what everyone thinks. When you’re 60, you realize no one was ever thinking about you in the first place.” **– Winston Churchill,**
 
-# Anti-distraktion
+# Vi gillar fokus
 
 
-**[StayFocusd (Google Chrome)]**(https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
+[StayFocusd (Google Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)
+
 StayFocusd är ett gratis Chrome-tillägg där du som användare blockerar webbplatser från att laddas. StayFocusd erbjuder ett "nuclear option" som blockerar alla webbplatser. Bra när du verkligen behöver arbeta här och nu. Du kan även välja "SmartBomb", som blockerar innehåll som video och bilder.
 
-**[Freedom (iPhone, iPad, Android, Mac and Windows)]**(https://freedom.to/?utm_source=refersion)
+[Freedom (iPhone, iPad, Android, Mac and Windows)](https://freedom.to/?utm_source=refersion)
 
 Freedom är en annan webbplats-blockerare, den ende(?) som fungerar med iPhone och iPad. Freedom kan stänga ner Internet om så önskas. Perfekt när du vill hålla fokus på en uppgift.
 
