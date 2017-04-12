@@ -2,14 +2,14 @@
 layout: page
 comments: true
 title:  "Web-life balance."
-categories: slowlife  
+categories: slowlife
 author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
 show_avatar : true
-feature_image: forest
+feature_image: dezertvan
 show_related_posts: false
---
+---
 
 Hur mycket jag på många sätt än uppskattar och känner tacksamhet för Internet, så påminns jag varje dag av dess baksidor. 
 Många dagar är en kamp för att uppnå det jag ska prata lite om nu...web-life balance. Det är svårt att stänga av, för mycket information 
