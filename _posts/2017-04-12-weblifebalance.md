@@ -3,8 +3,7 @@ layout: page
 comments: true
 title:  "Web-life balance."
 categories: slowlife  
-author_name : 
-Oscar T.
+author_name : Oscar T.
 author_url : /author/tege
 author_avatar: otege
 show_avatar : true
