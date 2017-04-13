@@ -24,7 +24,7 @@ Tycker det låter som en spännande idé.
 **Jag skulle nog inkludera:**
 
 1. Tacksamhetslista.Tacksamhet är en av de mest lyckohöjande av aktiviteter som du kan tänka dig. Tacksamhetslista? 
-Skriv ner tre tacksam över. Sådant som hände under dagen. Sen skriver du någon mening om varför det hände. 
+Skriv ner tre saker som du är tacksam över. Sådant som hände under dagen. Sen skriver du någon mening om varför det hände. 
 
 2. Jag skulle planerat in något som jag vet gör mig glad, aktivitet eller person.
 Längtan och förväntan är nämligen kraftfulla lyckobooster. 
