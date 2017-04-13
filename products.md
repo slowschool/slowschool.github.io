@@ -27,6 +27,8 @@ det.
 
 Och vill du testa så är det två veckors gratis prövoperiod just nu.
 
+<iframe width="350" height="430" src="https://console.api.ai/api-client/demo/embedded/31735234-59a6-4abe-9b57-c0b6b2a0c1ec"></iframe>
+
 
 **[Jag vill testa!](https://www.openmindclub.se/)**
 
