@@ -32,7 +32,7 @@ Det blev lättare att föra avslappnade samtal och empati blev ett mer framträd
 **Google är en samtalsdödare.**
 
 Samtalens innehåll förändrades utan teknologi. Inget Google när en fråga hängde i luften.
-Istället konversationer som fortsatte medan de sökte svar. Sånt som inte sällan resulterar i kreativa och roliga gissningslekar. Ni vet sånda där tillfällen där nya internskämt lätt uppstår. Med andra ord, vi snackar samtal som verkligen formar band mellan folk.
+Istället konversationer som fortsatte medan de sökte svar. Sånt som inte sällan resulterar i kreativa och roliga gissningslekar. Ni vet såna där tillfällen där nya internskämt lätt uppstår. Med andra ord, vi snackar samtal som verkligen formar band mellan folk.
 
 **Kommentar:** Det här kan jag sakna, samtal som bara får vandra fritt, fantasin som sätts igång av det, vem-har-egentligen-rätt-stunder som kunde pågå ganska länge. Och så saknar jag ibland tiden när man kunde ställa frågor utan att få möta suckar, sura blickar eller 8 av 10 gånger få höra: "Men googla det då!"
 
