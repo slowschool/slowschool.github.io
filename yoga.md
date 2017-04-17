@@ -2,7 +2,7 @@
 layout: static
 
 permalink: /yoga/
-feature_image: yogin
+feature_image: element
 ---
 
 Här kommer jag lägga upp saker som inspirerar och utbildar mig kring Yoga.
