@@ -2,7 +2,7 @@
 layout: static
 
 permalink: /slowtalks/
-feature_image: yogin
+feature_image: element
 ---
 
 **Pico Iyer: The art of stillness.**
