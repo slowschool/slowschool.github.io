@@ -32,6 +32,10 @@ StayFocusd är ett gratis Chrome-tillägg där du som användare blockerar webbp
 
 Freedom är en annan webbplats-blockerare, den ende(?) som fungerar med iPhone och iPad. Freedom kan stänga ner Internet om så önskas. Perfekt när du vill hålla fokus på en uppgift.
 
+
+# [Yogainspiration](https://slowschool.github.io/yoga/)
+
+
 # Ted talks
 
 **Pico Iyer: The art of stillness.**
