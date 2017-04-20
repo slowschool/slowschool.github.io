@@ -5,7 +5,7 @@ title:  "Web-life balance."
 categories: slowlife
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: otege
+author_avatar: play
 show_avatar : true
 feature_image: dezertvan
 show_related_posts: false
