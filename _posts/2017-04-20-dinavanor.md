@@ -5,7 +5,7 @@ title:  "Vanorna har makt. Skaffa makt över vanorna."
 categories: mentalstyrka utmaningar
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: otege
+author_avatar: play
 show_avatar : true
 feature_image: surfa
 show_related_posts: false
