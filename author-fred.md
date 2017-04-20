@@ -3,7 +3,7 @@ layout: author
 title: Author
 permalink: author/tege/
 feature_image: skoggan
-author_avatar: otege
+author_avatar: play
 title: Oscar T.
 author_name: Oscar T.
 ---
