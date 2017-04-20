@@ -5,7 +5,7 @@ title:  "Alternativ Happy Hour"
 categories: mentalstyrka utmaningar
 author_name : Oscar T.
 author_url : /author/tege
-author_avatar: otege
+author_avatar: play
 show_avatar : true
 feature_image: happyier
 show_related_posts: false
