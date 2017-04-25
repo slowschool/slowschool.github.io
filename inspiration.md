@@ -37,6 +37,7 @@ Freedom är en annan webbplats-blockerare, den ende(?) som fungerar med iPhone o
 
 # [Slow talks](https://slowschool.github.io/slowtalks/)
 
+# [Blogginlägg som inspirerar](https://slowschool.github.io/inlägg/)
 
 # Ted talks
 
