@@ -60,13 +60,6 @@ alt="Why we´re unhappy" width="240" height="180" border="10" /></a>
 alt="Why we´re unhappy" width="240" height="180" border="10" /></a>
 
 
-
-# Artiklar
-
-När du vill påminna dig själv om varför du inte bör bry dig så mycket om vad andra tycker:
-
-[Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
-
 # Podcasts
 
 Tim Ferriss är antagligen den ultimata life-hackern. Oerhört stor inspirationskälla. Rekommenderar starkt att ni lyssnar på hans
