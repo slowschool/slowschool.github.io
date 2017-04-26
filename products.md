@@ -10,27 +10,29 @@ Eller maila mig på **oscar@slowschool.se**
 
 ## Open Mind Club.
 
-**Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, mental träning, gemenskap.**
+**Teman: Utmana dig själv, personlig utveckling, utanför din komfortzon, gemenskap.**
 
-Kan vi bygga ett community som handlar om att utmana oss själva utanför våra komfortzoner? Där vi tillsammans utmanar oss själva, utmanar varandra...pushar och stöttar varandra. Där vi hjälper varandra att kliva över olika hinder. Där nyfikenheten, öppenheten och experimentlustan är det som guidar oss. Kan vi det? 
+Open Mind Club är en plats som kan vara väldigt bra för dig och din personliga utveckling. Hur då? Utanför komfortzonen - det är där du händer. Det är där nästan alla personliga framsteg sker. Alla som någon gång pushat sig själv till en högre nivå vet att du kan nå fantastiska resultat när du utmanar dig själv. För det finns få saker som inspirerar och utbildar oss lika mycket som att söka efter nya upplevelser, utveckla nya färdigheter och att öppna dörrar till nya idéer. Allt det där får och uppmuntras du att göra i Open Mind Club!
 
-Det kan vara svårt att bryta sig loss från sin komfortzon, inget snack om det. Men samtidigt väldigt bra för dig. 
 
-Alla som någon gång pushat sig själv till en högre nivå vet att du kan nå fantastiska resultat när du utmanar dig själv.
+Målet? Att utmana dig själv ska bli en vana, en del av den du är. Börja med små, små steg - om det är vad du behöver. 
+Och ofta är det precis vad vi behöver när nya vanor ska byggas upp. Utgå från sådant som du verkligen skulle vilja göra, 
 
-Det är alltså det som Open Mind Club handlar om. Vi ska skapa en plats där vi utmanar oss själva på olika sätt, testar oss fram och pushar varandra. Det här med att utmana oss själva ska bli en naturlig del av vår vardag.
 
-För det finns få saker som inspirerar och utbildar oss lika mycket som att söka efter nya upplevelser, utveckla nya färdigheter och att öppna dörrar till nya idéer.
+Så om Open Mind Club redan nu kan betyda mycket för din personliga utveckling. Vad vill jag mer att det ska bli? 
+Det hela utgår mycket från den här frågan: Kan vi bygga ett community som handlar om att utmana oss själva utanför våra komfortzoner? 
+Där vi tillsammans utmanar oss själva, utmanar varandra...pushar och stöttar varandra. Där vi hjälper varandra att kliva över olika hinder. 
+Där nyfikenheten, öppenheten och experimentlustan är det som guidar oss. Kan vi det? 
 
-Det är naturligtvis helt ok att ta små steg, att göra saker och ting i din egen takt. Självklart! För det krävs inte sällan rätt mycket mod för att bryta dig loss från din komfortzon. Ok, det var en lite introduktion
-det. 
+Och vill du testa så är det två veckors gratis prövoperiod just nu. **[Jag vill testa!](https://www.openmindclub.se/)**
 
-Och vill du testa så är det två veckors gratis prövoperiod just nu.
+
+Förresten, du kanske är sugen på ett smakprov?
+
 
 <iframe width="350" height="430" src="https://console.api.ai/api-client/demo/embedded/31735234-59a6-4abe-9b57-c0b6b2a0c1ec"></iframe>
 
 
-**[Jag vill testa!](https://www.openmindclub.se/)**
 
 ## Kurs: Designa din dag för maximal produktivitet.
 
